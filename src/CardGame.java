@@ -1,99 +1,149 @@
 import java.io.IOException;
 import java.io.BufferedReader;
+import java.io.FileNotFoundException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
 /**
-* This class is used to initialise player threads and controls the logic of the game; distributes cards to players & informing the threads when someone has won.
-*
-* @author 228027 & 
-* @version 1.0
-*/
+ * This class is used to initialise player threads and controls the logic of the
+ * game; distributes cards to players & informing the threads when someone has
+ * won.
+ *
+ * @author 228027 & 231731
+ * @version 1.0
+ */
 
 public class CardGame {
-    
-    public static void main(String[] args){
+    /**
+     * main run method for the game
+     */
+    public static void main(String[] args) {
         try {
-            // Request input from the user. 
+            // Request input from the user.
             System.out.println("Enter the number of players in the game: ");
             BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
             int playerNum = Integer.parseInt(in.readLine());
             System.out.println("Enter the filename for a pack of cards: ");
             String filename = in.readLine();
-            
-            //startGame(playerNum, filename);
 
-        } catch (IOException e) {
-            System.out.println("exception: " + e);
+            startGame(playerNum, filename);
+
+        } catch (FileNotFoundException e) {
+            generatePack();
         } catch (NumberFormatException e) {
             System.out.println("Please enter a valid(int) number of players");
+        } catch (IOException e) {
+            System.out.println("Exeception: " + e);
         }
     }
 
-    public static void startGame(int n, String filename) throws IOException {
-        Pack pack = new Pack(filename, n);
+    /**
+     * Main method to run the game.
+     * 
+     * @param n        number of players
+     * @param packFile filename of the pack
+     */
+    public static void startGame(int n, String packFile) throws IOException {
+        Pack pack = new Pack(packFile, n);
         Deck[] decks = new Deck[n];
         Card[] cardsInPack = pack.getCards();
         Player[] players = new Player[n];
-        
-        for (int i = 0; i <= n; i++) {
-            players[i] = new Player(i);
-            // Creating thread because Player extends Thread.
-            players[i].start(); // start each player thread
+
+        // create players
+        for (int i = 0; i < n; i++) {
+            players[i] = new Player(i + 1);
+            players[i].start();
             decks[i] = new Deck(i);
         }
-        // Distribute the cards to players.
+
+        // Distribute the cards
         for (int i = 0; i < 4 * n; i++) {
-            players[i % n].getCard().add(cardsInPack[i]);
+            players[i % n].getHand().add(cardsInPack[i]);
         }
-        // Distribute the cards to decks.
         for (int i = 4 * n; i < 8 * n; i++) {
             decks[i % n].addCard(cardsInPack[i]);
         }
 
         boolean isWinner = false;
 
-        // this checks if any player has won immediately before the game starts
+        // check if any player has won before the game starts.
         for (Player player : players) {
-            if (player.checkWin()) {
+            player.writeToPlayerFile("player " + player.getPlayerId() + " initial hand " + player.getHand());
+            if (player.isWinner()) {
                 System.out.println("Player " + player.getPlayerId() + " has won the game");
                 isWinner = true;
             }
         }
+
+        // The game's logic starts here
         int winner = -1;
         int turns = 0;
-        while (!isWinner){
+        while (!isWinner) {
             int playersTurn = turns++ % n;
             int discardToDeck = (playersTurn + 1) % n;
             int pickUpFromDeck = playersTurn;
 
-            // synchronized block used for thread safety
             synchronized (players[playersTurn]) {
-                /* The below print statement shows which thread each player runs in */
-//                System.out.printf("player %d is running on %s%n", playersTurn + 1, players[playersTurn].getName());
+                Card newCard = decks[pickUpFromDeck].pickUpCard();
+                Card discardCard = players[playersTurn].playerTurn(newCard, discardToDeck, pickUpFromDeck);
+                decks[discardToDeck].addCard(discardCard);
 
-                decks[discardToDeck].discardCard(
-                        players[playersTurn].takeTurn(
-                                decks[pickUpFromDeck].pickUpCard(), discardToDeck, pickUpFromDeck)
-                );
             }
-
-            // checks if player has won at the end of every turn
-            if (players[playersTurn].checkWin()) {
+            if (players[playersTurn].isWinner()) {
                 isWinner = true;
                 winner = players[playersTurn].getPlayerId();
+
+            }
+        }
+        // print the content of decks and players to terminal
+        for (Deck deck : decks) {
+            System.out.println(deck.toString());
+        }
+        for (Player player : players) {
+            System.out.println("player: " + player.toString());
+        }
+
+        // validate if a player has won the game
+        for (Player player : players) {
+            if (player.isWinner()) {
+                System.out.println("Player " + player.getPlayerId() + " has won the game");
             }
         }
 
-        // Procedure for when there is a winner.
-        // Inform all players of winner.
-        // Inform decks of end of game.
+        // inform player has won and write content of deck at the end of the game.
         for (short i = 0; i < n; i++) {
             synchronized (players[i]) {
                 players[i].informPlayerHasWon(winner);
             }
-            decks[i].writeContentsToFile();
-        }       
+            decks[i].writeDeckToFile();
+        }
+    }
+
+    /**
+     * This method writes the contents of the decks into a file
+     */
+    public static void generatePack() {
+        try {
+            // Request input from the user.
+            System.out.println(
+                    "Please enter a valid file name for the pack or Do you want to generate a new pack? (yes/no) ");
+            BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+            String decision = in.readLine();
+            if (decision.equals("yes")) {
+                System.out.println("Enter the number of players in the game: ");
+                int playerNum = Integer.parseInt(in.readLine());
+                System.out.println("Enter the filename for a pack of cards: ");
+                String filename = in.readLine();
+
+                ArrayList<Card> PackOfCards = Generate.generate(playerNum);
+                Generate.writefile(filename, PackOfCards);
+
+                CardGame.startGame(playerNum, filename);
+            }
+        } catch (NumberFormatException e) {
+            System.out.println("Please enter a valid(int) number of players");
+        } catch (IOException e) {
+            System.out.println("Exeception: " + e);
+        }
     }
 }
-
