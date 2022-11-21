@@ -29,7 +29,28 @@ public class CardGame {
             startGame(playerNum, filename);
 
         } catch (FileNotFoundException e) {
-            generatePack();
+            try {
+                // Request input from the user.
+                System.out.println(
+                        "Please enter a valid file name for the pack or Do you want to generate a new pack? (yes/no) ");
+                BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+                String decision = in.readLine();
+                if (decision.equals("yes")) {
+                    System.out.println("Enter the number of players in the game: ");
+                    int playerNum = Integer.parseInt(in.readLine());
+                    System.out.println("Enter the filename for a pack of cards: ");
+                    String filename = in.readLine();
+
+                    ArrayList<Card> PackOfCards = Generate.generate(playerNum);
+                    Generate.writefile(filename, PackOfCards);
+
+                    CardGame.startGame(playerNum, filename);
+                }
+            } catch (NumberFormatException a) {
+                System.out.println("Please enter a valid(int) number of players");
+            } catch (IOException a) {
+                System.out.println("Exeception: " + a);
+            }
         } catch (NumberFormatException e) {
             System.out.println("Please enter a valid(int) number of players");
         } catch (IOException e) {
@@ -122,7 +143,7 @@ public class CardGame {
     /**
      * This method writes the contents of the decks into a file
      */
-    public static void generatePack() {
+    /*public static void generatePack() {
         try {
             // Request input from the user.
             System.out.println(
@@ -144,6 +165,6 @@ public class CardGame {
             System.out.println("Please enter a valid(int) number of players");
         } catch (IOException e) {
             System.out.println("Exeception: " + e);
-        }
+        }*/
     }
 }

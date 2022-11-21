@@ -50,7 +50,7 @@ public class DeckTest {
     }
 
     @Test
-    public void testWriteDeckToFile() { /// fix this
+    public void testWriteDeckToFile() {
         try {
             Deck deck4 = new Deck(4);
             deck4.addCard(new Card(1));

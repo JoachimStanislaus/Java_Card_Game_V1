@@ -1,1 +1,1 @@
-deck1 contents:  8 6 7
+deck1 contents:  4 4 4

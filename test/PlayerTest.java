@@ -33,25 +33,6 @@ public class PlayerTest {
     }
 
     @Test
-    public void testGetHand() {
-        final ArrayList<Card> testArray = new ArrayList<>();
-        Player player = new Player((int) 1);
-        for (int i = 0; i < 4; i++) {
-            testArray.add(new Card((int) i));
-            player.getHand().add(new Card((int) i));
-        }
-        assertEquals(player.getHand().toString(), testArray.toString());
-    }
-
-    @Test
-    public void testGetPlayerId() {
-        // Generate player.
-        int playerNo = (int) Math.round((Math.random() * 100));
-        Player player = new Player(playerNo);
-        assertEquals(player.getPlayerId(), playerNo);
-    }
-
-    @Test
     public void testPlayerTurn() {
         Player player = new Player((int) 1);
         Card card = new Card(1);
