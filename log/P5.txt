@@ -1,67 +1,109 @@
-player 5 initial hand [8, 9, 1, 4]
-Player 5 draws 7 from deck 5
-Player 5 discards 1 to deck 1
-Player 5 current hand [8, 9, 4, 7]
-Player 5 draws 2 from deck 5
-Player 5 discards 8 to deck 1
-Player 5 current hand [9, 4, 7, 2]
-Player 5 draws 6 from deck 5
-Player 5 discards 2 to deck 1
-Player 5 current hand [9, 4, 7, 6]
-Player 5 draws 6 from deck 5
-Player 5 discards 7 to deck 1
-Player 5 current hand [9, 4, 6, 6]
-Player 5 draws 3 from deck 5
-Player 5 discards 4 to deck 1
-Player 5 current hand [9, 6, 6, 3]
+player 5 initial hand [14, 1, 18, 1]
+Player 5 draws 16 from deck 5
+Player 5 discards 1 to deck 6
+Player 5 current hand [14, 18, 1, 16]
+Player 5 draws 10 from deck 5
+Player 5 discards 18 to deck 6
+Player 5 current hand [14, 1, 16, 10]
+Player 5 draws 10 from deck 5
+Player 5 discards 1 to deck 6
+Player 5 current hand [14, 16, 10, 10]
 Player 5 draws 5 from deck 5
-Player 5 discards 6 to deck 1
-Player 5 current hand [9, 6, 3, 5]
+Player 5 discards 10 to deck 6
+Player 5 current hand [14, 16, 10, 5]
+Player 5 draws 19 from deck 5
+Player 5 discards 10 to deck 6
+Player 5 current hand [14, 16, 5, 19]
+Player 5 draws 3 from deck 5
+Player 5 discards 16 to deck 6
+Player 5 current hand [14, 5, 19, 3]
+Player 5 draws 12 from deck 5
+Player 5 discards 14 to deck 6
+Player 5 current hand [5, 19, 3, 12]
 Player 5 draws 9 from deck 5
-Player 5 discards 3 to deck 1
-Player 5 current hand [9, 6, 5, 9]
-Player 5 draws 3 from deck 5
-Player 5 discards 9 to deck 1
-Player 5 current hand [9, 6, 5, 3]
-Player 5 draws 10 from deck 5
-Player 5 discards 3 to deck 1
-Player 5 current hand [9, 6, 5, 10]
-Player 5 draws 7 from deck 5
-Player 5 discards 9 to deck 1
-Player 5 current hand [6, 5, 10, 7]
+Player 5 discards 12 to deck 6
+Player 5 current hand [5, 19, 3, 9]
+Player 5 draws 13 from deck 5
+Player 5 discards 9 to deck 6
+Player 5 current hand [5, 19, 3, 13]
+Player 5 draws 16 from deck 5
+Player 5 discards 3 to deck 6
+Player 5 current hand [5, 19, 13, 16]
+Player 5 draws 18 from deck 5
+Player 5 discards 13 to deck 6
+Player 5 current hand [5, 19, 16, 18]
+Player 5 draws 13 from deck 5
+Player 5 discards 19 to deck 6
+Player 5 current hand [5, 16, 18, 13]
 Player 5 draws 5 from deck 5
-Player 5 discards 6 to deck 1
-Player 5 current hand [5, 10, 7, 5]
-Player 5 draws 2 from deck 5
-Player 5 discards 10 to deck 1
-Player 5 current hand [5, 7, 5, 2]
-Player 5 draws 1 from deck 5
-Player 5 discards 2 to deck 1
-Player 5 current hand [5, 7, 5, 1]
-Player 5 draws 10 from deck 5
-Player 5 discards 7 to deck 1
-Player 5 current hand [5, 5, 1, 10]
-Player 5 draws 1 from deck 5
-Player 5 discards 1 to deck 1
-Player 5 current hand [5, 5, 10, 1]
-Player 5 draws 7 from deck 5
-Player 5 discards 10 to deck 1
-Player 5 current hand [5, 5, 1, 7]
+Player 5 discards 18 to deck 6
+Player 5 current hand [5, 16, 13, 5]
+Player 5 draws 14 from deck 5
+Player 5 discards 13 to deck 6
+Player 5 current hand [5, 16, 5, 14]
+Player 5 draws 20 from deck 5
+Player 5 discards 16 to deck 6
+Player 5 current hand [5, 5, 14, 20]
+Player 5 draws 15 from deck 5
+Player 5 discards 14 to deck 6
+Player 5 current hand [5, 5, 20, 15]
+Player 5 draws 5 from deck 5
+Player 5 discards 20 to deck 6
+Player 5 current hand [5, 5, 15, 5]
+Player 5 draws 12 from deck 5
+Player 5 discards 15 to deck 6
+Player 5 current hand [5, 5, 5, 12]
+Player 5 draws 11 from deck 5
+Player 5 discards 12 to deck 6
+Player 5 current hand [5, 5, 5, 11]
+Player 5 draws 6 from deck 5
+Player 5 discards 11 to deck 6
+Player 5 current hand [5, 5, 5, 6]
 Player 5 draws 8 from deck 5
-Player 5 discards 7 to deck 1
-Player 5 current hand [5, 5, 1, 8]
+Player 5 discards 6 to deck 6
+Player 5 current hand [5, 5, 5, 8]
 Player 5 draws 6 from deck 5
-Player 5 discards 1 to deck 1
-Player 5 current hand [5, 5, 8, 6]
+Player 5 discards 8 to deck 6
+Player 5 current hand [5, 5, 5, 6]
+Player 5 draws 18 from deck 5
+Player 5 discards 6 to deck 6
+Player 5 current hand [5, 5, 5, 18]
 Player 5 draws 7 from deck 5
-Player 5 discards 8 to deck 1
-Player 5 current hand [5, 5, 6, 7]
+Player 5 discards 18 to deck 6
+Player 5 current hand [5, 5, 5, 7]
 Player 5 draws 9 from deck 5
-Player 5 discards 6 to deck 1
-Player 5 current hand [5, 5, 7, 9]
+Player 5 discards 7 to deck 6
+Player 5 current hand [5, 5, 5, 9]
+Player 5 draws 19 from deck 5
+Player 5 discards 9 to deck 6
+Player 5 current hand [5, 5, 5, 19]
+Player 5 draws 8 from deck 5
+Player 5 discards 19 to deck 6
+Player 5 current hand [5, 5, 5, 8]
+Player 5 draws 7 from deck 5
+Player 5 discards 8 to deck 6
+Player 5 current hand [5, 5, 5, 7]
+Player 5 draws 13 from deck 5
+Player 5 discards 7 to deck 6
+Player 5 current hand [5, 5, 5, 13]
 Player 5 draws 9 from deck 5
-Player 5 discards 7 to deck 1
-Player 5 current hand [5, 5, 9, 9]
-P1 has informed P5 that P1 has won
+Player 5 discards 13 to deck 6
+Player 5 current hand [5, 5, 5, 9]
+Player 5 draws 17 from deck 5
+Player 5 discards 9 to deck 6
+Player 5 current hand [5, 5, 5, 17]
+Player 5 draws 13 from deck 5
+Player 5 discards 17 to deck 6
+Player 5 current hand [5, 5, 5, 13]
+Player 5 draws 15 from deck 5
+Player 5 discards 13 to deck 6
+Player 5 current hand [5, 5, 5, 15]
+Player 5 draws 14 from deck 5
+Player 5 discards 15 to deck 6
+Player 5 current hand [5, 5, 5, 14]
+Player 5 draws 17 from deck 5
+Player 5 discards 14 to deck 6
+Player 5 current hand [5, 5, 5, 17]
+P2 has informed P5 that P2 has won
 P5 exits
-P5 hand [5, 5, 9, 9]
+P5 hand [5, 5, 5, 17]

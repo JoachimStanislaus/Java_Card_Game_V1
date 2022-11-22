@@ -1,67 +1,109 @@
-player 3 initial hand [7, 2, 7, 1]
-Player 3 draws 1 from deck 3
-Player 3 discards 7 to deck 4
-Player 3 current hand [2, 7, 1, 1]
-Player 3 draws 10 from deck 3
-Player 3 discards 2 to deck 4
-Player 3 current hand [7, 1, 1, 10]
-Player 3 draws 10 from deck 3
-Player 3 discards 1 to deck 4
-Player 3 current hand [7, 1, 10, 10]
+player 3 initial hand [5, 13, 16, 20]
 Player 3 draws 5 from deck 3
-Player 3 discards 1 to deck 4
-Player 3 current hand [7, 10, 10, 5]
+Player 3 discards 16 to deck 4
+Player 3 current hand [5, 13, 20, 5]
 Player 3 draws 4 from deck 3
-Player 3 discards 10 to deck 4
-Player 3 current hand [7, 10, 5, 4]
-Player 3 draws 8 from deck 3
+Player 3 discards 13 to deck 4
+Player 3 current hand [5, 20, 5, 4]
+Player 3 draws 9 from deck 3
 Player 3 discards 4 to deck 4
-Player 3 current hand [7, 10, 5, 8]
-Player 3 draws 9 from deck 3
-Player 3 discards 7 to deck 4
-Player 3 current hand [10, 5, 8, 9]
-Player 3 draws 6 from deck 3
-Player 3 discards 8 to deck 4
-Player 3 current hand [10, 5, 9, 6]
-Player 3 draws 7 from deck 3
-Player 3 discards 6 to deck 4
-Player 3 current hand [10, 5, 9, 7]
-Player 3 draws 9 from deck 3
-Player 3 discards 7 to deck 4
-Player 3 current hand [10, 5, 9, 9]
-Player 3 draws 5 from deck 3
-Player 3 discards 9 to deck 4
-Player 3 current hand [10, 5, 9, 5]
-Player 3 draws 3 from deck 3
-Player 3 discards 9 to deck 4
-Player 3 current hand [10, 5, 5, 3]
-Player 3 draws 8 from deck 3
-Player 3 discards 10 to deck 4
-Player 3 current hand [5, 5, 3, 8]
+Player 3 current hand [5, 20, 5, 9]
+Player 3 draws 14 from deck 3
+Player 3 discards 5 to deck 4
+Player 3 current hand [20, 5, 9, 14]
+Player 3 draws 12 from deck 3
+Player 3 discards 14 to deck 4
+Player 3 current hand [20, 5, 9, 12]
+Player 3 draws 15 from deck 3
+Player 3 discards 20 to deck 4
+Player 3 current hand [5, 9, 12, 15]
+Player 3 draws 11 from deck 3
+Player 3 discards 15 to deck 4
+Player 3 current hand [5, 9, 12, 11]
 Player 3 draws 6 from deck 3
 Player 3 discards 5 to deck 4
-Player 3 current hand [5, 3, 8, 6]
-Player 3 draws 10 from deck 3
-Player 3 discards 8 to deck 4
-Player 3 current hand [5, 3, 6, 10]
+Player 3 current hand [9, 12, 11, 6]
 Player 3 draws 8 from deck 3
-Player 3 discards 10 to deck 4
-Player 3 current hand [5, 3, 6, 8]
-Player 3 draws 8 from deck 3
+Player 3 discards 12 to deck 4
+Player 3 current hand [9, 11, 6, 8]
+Player 3 draws 6 from deck 3
+Player 3 discards 11 to deck 4
+Player 3 current hand [9, 6, 8, 6]
+Player 3 draws 9 from deck 3
 Player 3 discards 6 to deck 4
-Player 3 current hand [5, 3, 8, 8]
-Player 3 draws 3 from deck 3
-Player 3 discards 8 to deck 4
-Player 3 current hand [5, 3, 8, 3]
-Player 3 draws 4 from deck 3
-Player 3 discards 8 to deck 4
-Player 3 current hand [5, 3, 3, 4]
+Player 3 current hand [9, 8, 6, 9]
 Player 3 draws 7 from deck 3
-Player 3 discards 4 to deck 4
-Player 3 current hand [5, 3, 3, 7]
+Player 3 discards 8 to deck 4
+Player 3 current hand [9, 6, 9, 7]
+Player 3 draws 18 from deck 3
+Player 3 discards 6 to deck 4
+Player 3 current hand [9, 9, 7, 18]
+Player 3 draws 7 from deck 3
+Player 3 discards 18 to deck 4
+Player 3 current hand [9, 9, 7, 7]
+Player 3 draws 13 from deck 3
+Player 3 discards 7 to deck 4
+Player 3 current hand [9, 9, 7, 13]
+Player 3 draws 19 from deck 3
+Player 3 discards 9 to deck 4
+Player 3 current hand [9, 7, 13, 19]
+Player 3 draws 8 from deck 3
+Player 3 discards 19 to deck 4
+Player 3 current hand [9, 7, 13, 8]
+Player 3 draws 17 from deck 3
+Player 3 discards 8 to deck 4
+Player 3 current hand [9, 7, 13, 17]
+Player 3 draws 14 from deck 3
+Player 3 discards 7 to deck 4
+Player 3 current hand [9, 13, 17, 14]
+Player 3 draws 11 from deck 3
+Player 3 discards 13 to deck 4
+Player 3 current hand [9, 17, 14, 11]
+Player 3 draws 17 from deck 3
+Player 3 discards 9 to deck 4
+Player 3 current hand [17, 14, 11, 17]
+Player 3 draws 13 from deck 3
+Player 3 discards 17 to deck 4
+Player 3 current hand [14, 11, 17, 13]
+Player 3 draws 15 from deck 3
+Player 3 discards 13 to deck 4
+Player 3 current hand [14, 11, 17, 15]
+Player 3 draws 19 from deck 3
+Player 3 discards 15 to deck 4
+Player 3 current hand [14, 11, 17, 19]
+Player 3 draws 7 from deck 3
+Player 3 discards 14 to deck 4
+Player 3 current hand [11, 17, 19, 7]
+Player 3 draws 20 from deck 3
+Player 3 discards 17 to deck 4
+Player 3 current hand [11, 19, 7, 20]
+Player 3 draws 16 from deck 3
+Player 3 discards 7 to deck 4
+Player 3 current hand [11, 19, 20, 16]
+Player 3 draws 17 from deck 3
+Player 3 discards 20 to deck 4
+Player 3 current hand [11, 19, 16, 17]
+Player 3 draws 8 from deck 3
+Player 3 discards 11 to deck 4
+Player 3 current hand [19, 16, 17, 8]
+Player 3 draws 8 from deck 3
+Player 3 discards 8 to deck 4
+Player 3 current hand [19, 16, 17, 8]
+Player 3 draws 11 from deck 3
+Player 3 discards 19 to deck 4
+Player 3 current hand [16, 17, 8, 11]
 Player 3 draws 3 from deck 3
-Player 3 discards 5 to deck 4
-Player 3 current hand [3, 3, 7, 3]
-P1 has informed P3 that P1 has won
+Player 3 discards 17 to deck 4
+Player 3 current hand [16, 8, 11, 3]
+Player 3 draws 16 from deck 3
+Player 3 discards 8 to deck 4
+Player 3 current hand [16, 11, 3, 16]
+Player 3 draws 12 from deck 3
+Player 3 discards 16 to deck 4
+Player 3 current hand [16, 11, 3, 12]
+Player 3 draws 11 from deck 3
+Player 3 discards 11 to deck 4
+Player 3 current hand [16, 3, 12, 11]
+P2 has informed P3 that P2 has won
 P3 exits
-P3 hand [3, 3, 7, 3]
+P3 hand [16, 3, 12, 11]

@@ -1,0 +1,109 @@
+player 6 initial hand [12, 9, 5, 6]
+Player 6 draws 4 from deck 6
+Player 6 discards 9 to deck 7
+Player 6 current hand [12, 5, 6, 4]
+Player 6 draws 20 from deck 6
+Player 6 discards 4 to deck 7
+Player 6 current hand [12, 5, 6, 20]
+Player 6 draws 19 from deck 6
+Player 6 discards 12 to deck 7
+Player 6 current hand [5, 6, 20, 19]
+Player 6 draws 10 from deck 6
+Player 6 discards 20 to deck 7
+Player 6 current hand [5, 6, 19, 10]
+Player 6 draws 1 from deck 6
+Player 6 discards 10 to deck 7
+Player 6 current hand [5, 6, 19, 1]
+Player 6 draws 18 from deck 6
+Player 6 discards 19 to deck 7
+Player 6 current hand [5, 6, 1, 18]
+Player 6 draws 1 from deck 6
+Player 6 discards 18 to deck 7
+Player 6 current hand [5, 6, 1, 1]
+Player 6 draws 10 from deck 6
+Player 6 discards 1 to deck 7
+Player 6 current hand [5, 6, 1, 10]
+Player 6 draws 10 from deck 6
+Player 6 discards 1 to deck 7
+Player 6 current hand [5, 6, 10, 10]
+Player 6 draws 16 from deck 6
+Player 6 discards 5 to deck 7
+Player 6 current hand [6, 10, 10, 16]
+Player 6 draws 14 from deck 6
+Player 6 discards 10 to deck 7
+Player 6 current hand [6, 10, 16, 14]
+Player 6 draws 12 from deck 6
+Player 6 discards 10 to deck 7
+Player 6 current hand [6, 16, 14, 12]
+Player 6 draws 9 from deck 6
+Player 6 discards 14 to deck 7
+Player 6 current hand [6, 16, 12, 9]
+Player 6 draws 3 from deck 6
+Player 6 discards 12 to deck 7
+Player 6 current hand [6, 16, 9, 3]
+Player 6 draws 13 from deck 6
+Player 6 discards 3 to deck 7
+Player 6 current hand [6, 16, 9, 13]
+Player 6 draws 19 from deck 6
+Player 6 discards 9 to deck 7
+Player 6 current hand [6, 16, 13, 19]
+Player 6 draws 18 from deck 6
+Player 6 discards 19 to deck 7
+Player 6 current hand [6, 16, 13, 18]
+Player 6 draws 13 from deck 6
+Player 6 discards 13 to deck 7
+Player 6 current hand [6, 16, 18, 13]
+Player 6 draws 16 from deck 6
+Player 6 discards 18 to deck 7
+Player 6 current hand [6, 16, 13, 16]
+Player 6 draws 14 from deck 6
+Player 6 discards 13 to deck 7
+Player 6 current hand [6, 16, 16, 14]
+Player 6 draws 20 from deck 6
+Player 6 discards 14 to deck 7
+Player 6 current hand [6, 16, 16, 20]
+Player 6 draws 15 from deck 6
+Player 6 discards 20 to deck 7
+Player 6 current hand [6, 16, 16, 15]
+Player 6 draws 12 from deck 6
+Player 6 discards 15 to deck 7
+Player 6 current hand [6, 16, 16, 12]
+Player 6 draws 11 from deck 6
+Player 6 discards 16 to deck 7
+Player 6 current hand [6, 16, 12, 11]
+Player 6 draws 6 from deck 6
+Player 6 discards 11 to deck 7
+Player 6 current hand [6, 16, 12, 6]
+Player 6 draws 8 from deck 6
+Player 6 discards 16 to deck 7
+Player 6 current hand [6, 12, 6, 8]
+Player 6 draws 6 from deck 6
+Player 6 discards 8 to deck 7
+Player 6 current hand [6, 12, 6, 6]
+Player 6 draws 18 from deck 6
+Player 6 discards 12 to deck 7
+Player 6 current hand [6, 6, 6, 18]
+Player 6 draws 7 from deck 6
+Player 6 discards 18 to deck 7
+Player 6 current hand [6, 6, 6, 7]
+Player 6 draws 9 from deck 6
+Player 6 discards 7 to deck 7
+Player 6 current hand [6, 6, 6, 9]
+Player 6 draws 19 from deck 6
+Player 6 discards 9 to deck 7
+Player 6 current hand [6, 6, 6, 19]
+Player 6 draws 8 from deck 6
+Player 6 discards 19 to deck 7
+Player 6 current hand [6, 6, 6, 8]
+Player 6 draws 7 from deck 6
+Player 6 discards 8 to deck 7
+Player 6 current hand [6, 6, 6, 7]
+Player 6 draws 13 from deck 6
+Player 6 discards 7 to deck 7
+Player 6 current hand [6, 6, 6, 13]
+Player 6 draws 9 from deck 6
+Player 6 discards 13 to deck 7
+Player 6 current hand [6, 6, 6, 9]
+P2 has informed P6 that P2 has won
+P6 exits
+P6 hand [6, 6, 6, 9]

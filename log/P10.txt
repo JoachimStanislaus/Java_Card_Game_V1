@@ -1,0 +1,109 @@
+player 10 initial hand [7, 19, 2, 8]
+Player 10 draws 19 from deck 10
+Player 10 discards 2 to deck 1
+Player 10 current hand [7, 19, 8, 19]
+Player 10 draws 11 from deck 10
+Player 10 discards 19 to deck 1
+Player 10 current hand [7, 19, 8, 11]
+Player 10 draws 13 from deck 10
+Player 10 discards 8 to deck 1
+Player 10 current hand [7, 19, 11, 13]
+Player 10 draws 2 from deck 10
+Player 10 discards 13 to deck 1
+Player 10 current hand [7, 19, 11, 2]
+Player 10 draws 8 from deck 10
+Player 10 discards 2 to deck 1
+Player 10 current hand [7, 19, 11, 8]
+Player 10 draws 15 from deck 10
+Player 10 discards 11 to deck 1
+Player 10 current hand [7, 19, 8, 15]
+Player 10 draws 17 from deck 10
+Player 10 discards 19 to deck 1
+Player 10 current hand [7, 8, 15, 17]
+Player 10 draws 20 from deck 10
+Player 10 discards 15 to deck 1
+Player 10 current hand [7, 8, 17, 20]
+Player 10 draws 3 from deck 10
+Player 10 discards 7 to deck 1
+Player 10 current hand [8, 17, 20, 3]
+Player 10 draws 1 from deck 10
+Player 10 discards 20 to deck 1
+Player 10 current hand [8, 17, 3, 1]
+Player 10 draws 8 from deck 10
+Player 10 discards 17 to deck 1
+Player 10 current hand [8, 3, 1, 8]
+Player 10 draws 12 from deck 10
+Player 10 discards 1 to deck 1
+Player 10 current hand [8, 3, 8, 12]
+Player 10 draws 11 from deck 10
+Player 10 discards 8 to deck 1
+Player 10 current hand [3, 8, 12, 11]
+Player 10 draws 11 from deck 10
+Player 10 discards 8 to deck 1
+Player 10 current hand [3, 12, 11, 11]
+Player 10 draws 14 from deck 10
+Player 10 discards 3 to deck 1
+Player 10 current hand [12, 11, 11, 14]
+Player 10 draws 15 from deck 10
+Player 10 discards 11 to deck 1
+Player 10 current hand [12, 11, 14, 15]
+Player 10 draws 16 from deck 10
+Player 10 discards 15 to deck 1
+Player 10 current hand [12, 11, 14, 16]
+Player 10 draws 6 from deck 10
+Player 10 discards 16 to deck 1
+Player 10 current hand [12, 11, 14, 6]
+Player 10 draws 3 from deck 10
+Player 10 discards 14 to deck 1
+Player 10 current hand [12, 11, 6, 3]
+Player 10 draws 17 from deck 10
+Player 10 discards 12 to deck 1
+Player 10 current hand [11, 6, 3, 17]
+Player 10 draws 10 from deck 10
+Player 10 discards 11 to deck 1
+Player 10 current hand [6, 3, 17, 10]
+Player 10 draws 18 from deck 10
+Player 10 discards 3 to deck 1
+Player 10 current hand [6, 17, 10, 18]
+Player 10 draws 2 from deck 10
+Player 10 discards 6 to deck 1
+Player 10 current hand [17, 10, 18, 2]
+Player 10 draws 3 from deck 10
+Player 10 discards 18 to deck 1
+Player 10 current hand [17, 10, 2, 3]
+Player 10 draws 20 from deck 10
+Player 10 discards 3 to deck 1
+Player 10 current hand [17, 10, 2, 20]
+Player 10 draws 1 from deck 10
+Player 10 discards 2 to deck 1
+Player 10 current hand [17, 10, 20, 1]
+Player 10 draws 4 from deck 10
+Player 10 discards 17 to deck 1
+Player 10 current hand [10, 20, 1, 4]
+Player 10 draws 20 from deck 10
+Player 10 discards 4 to deck 1
+Player 10 current hand [10, 20, 1, 20]
+Player 10 draws 15 from deck 10
+Player 10 discards 20 to deck 1
+Player 10 current hand [10, 20, 1, 15]
+Player 10 draws 1 from deck 10
+Player 10 discards 1 to deck 1
+Player 10 current hand [10, 20, 15, 1]
+Player 10 draws 18 from deck 10
+Player 10 discards 15 to deck 1
+Player 10 current hand [10, 20, 1, 18]
+Player 10 draws 14 from deck 10
+Player 10 discards 18 to deck 1
+Player 10 current hand [10, 20, 1, 14]
+Player 10 draws 10 from deck 10
+Player 10 discards 14 to deck 1
+Player 10 current hand [10, 20, 1, 10]
+Player 10 draws 10 from deck 10
+Player 10 discards 20 to deck 1
+Player 10 current hand [10, 1, 10, 10]
+Player 10 draws 1 from deck 10
+Player 10 discards 1 to deck 1
+Player 10 current hand [10, 10, 10, 1]
+P2 has informed P10 that P2 has won
+P10 exits
+P10 hand [10, 10, 10, 1]

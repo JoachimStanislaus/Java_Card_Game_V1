@@ -70,12 +70,15 @@ public class CardGame {
         Card[] cardsInPack = pack.getCards();
         Player[] players = new Player[n];
 
-        // create players
-        for (int i = 0; i < n; i++) {
-            players[i] = new Player(i + 1);
-            players[i].start();
-            decks[i] = new Deck(i);
-        }
+        players = createPlayers(n);
+        decks = createDeck(n);
+
+        // // create players
+        // for (int i = 0; i < n; i++) {
+        // players[i] = new Player(i + 1);
+        // players[i].start();
+        // decks[i] = new Deck(i);
+        // }
 
         // Distribute the cards
         for (int i = 0; i < 4 * n; i++) {
@@ -88,13 +91,16 @@ public class CardGame {
         boolean isWinner = false;
 
         // check if any player has won before the game starts.
-        for (Player player : players) {
-            player.writeToPlayerFile("player " + player.getPlayerId() + " initial hand " + player.getHand());
-            if (player.isWinner()) {
-                System.out.println("Player " + player.getPlayerId() + " has won the game");
-                isWinner = true;
-            }
-        }
+        /*
+         * for (Player player : players) {
+         * player.writeToPlayerFile("player " + player.getPlayerId() + " initial hand "
+         * + player.getHand());
+         * if (player.isWinner()) {
+         * System.out.println("Player " + player.getPlayerId() + " has won the game");
+         * isWinner = true;
+         * }
+         * }
+         */
 
         // The game's logic starts here
         int winner = -1;
@@ -141,30 +147,51 @@ public class CardGame {
     }
 
     /**
-     * This method writes the contents of the decks into a file
+     * Method to create players
+     * 
+     * @param n number of players
+     * @return the number of players
      */
-    /*public static void generatePack() {
-        try {
-            // Request input from the user.
-            System.out.println(
-                    "Please enter a valid file name for the pack or Do you want to generate a new pack? (yes/no) ");
-            BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-            String decision = in.readLine();
-            if (decision.equals("yes")) {
-                System.out.println("Enter the number of players in the game: ");
-                int playerNum = Integer.parseInt(in.readLine());
-                System.out.println("Enter the filename for a pack of cards: ");
-                String filename = in.readLine();
-
-                ArrayList<Card> PackOfCards = Generate.generate(playerNum);
-                Generate.writefile(filename, PackOfCards);
-
-                CardGame.startGame(playerNum, filename);
-            }
-        } catch (NumberFormatException e) {
-            System.out.println("Please enter a valid(int) number of players");
-        } catch (IOException e) {
-            System.out.println("Exeception: " + e);
+    public static Player[] createPlayers(int n) {
+        Player[] players = new Player[n];
+        // create players
+        for (int i = 0; i < n; i++) {
+            players[i] = new Player(i + 1);
+            players[i].start();
         }
-    }*/ 
+        return players;
+    }
+
+    /**
+     * Method to create deck
+     * 
+     * @param n number of players
+     * @return an array of decks
+     */
+    public static Deck[] createDeck(int n) {
+        Deck[] decks = new Deck[n];
+        // create decks
+        for (int i = 0; i < n; i++) {
+            decks[i] = new Deck(i);
+        }
+        return decks;
+    }
+
+    /**
+     * Method to check winner before the simulation starts
+     * 
+     * @param Player[] an array of players
+     * @return boolean is winner
+     */
+    public static boolean checkWinner(Player[] players) {
+        boolean isWinner = false;
+        for (Player player : players) {
+            player.writeToPlayerFile("player " + player.getPlayerId() + " initial hand " + player.getHand());
+            if (player.isWinner()) {
+                System.out.println("Player " + player.getPlayerId() + " has won the game");
+                isWinner = true;
+            }
+        }
+        return isWinner;
+    }
 }

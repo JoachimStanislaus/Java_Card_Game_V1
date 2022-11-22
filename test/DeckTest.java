@@ -41,11 +41,6 @@ public class DeckTest {
     }
 
     @Test
-    public void testGetCards() {
-        assertArrayEquals(deck.getCards().toArray(), cards);
-    }
-
-    @Test
     public void testPickUpCard() {
         Card card = new Card(1);
         deck = new Deck(2);
@@ -54,6 +49,7 @@ public class DeckTest {
         deck.addCard(new Card(3));
         deck.addCard(new Card(4));
         assertEquals(deck.pickUpCard(), card);
+        assertFalse(deck.getCards().contains(card));
     }
 
     @Test

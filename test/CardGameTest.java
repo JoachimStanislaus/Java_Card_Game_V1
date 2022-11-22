@@ -1,5 +1,8 @@
 import org.junit.After;
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
 import java.util.ArrayList;
 import java.io.IOException;
@@ -26,4 +29,20 @@ public class CardGameTest {
             fail("test has failed due to exception error.");
         }
     }
+
+    @Test
+    public void testCreatePlayers() {
+        int n = (int) Math.round(Math.random() * 20) + 1;
+        Player[] players = CardGame.createPlayers(n);
+        assertTrue(players.length == n);
+        // assert true check is alive
+    }
+
+    @Test
+    public void testCreateDeck() {
+        int n = (int) Math.round(Math.random() * 20) + 1;
+        Deck[] decks = CardGame.createDeck(n);
+        assertTrue(decks.length == n);
+    }
+
 }
