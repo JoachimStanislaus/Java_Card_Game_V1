@@ -1,15 +1,22 @@
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.fail;
 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.Arrays;
 
 import org.junit.Test;
+
+/**
+ *
+ *
+ * @author 228027 & 231731
+ * @version 1.0
+ */
 
 public class PlayerTest {
     @Test
@@ -18,7 +25,6 @@ public class PlayerTest {
         for (int i = 0; i < 4; i++) {
             player.getHand().add(new Card((int) 2));
         }
-
         assertTrue(player.isWinner());
     }
 
@@ -28,7 +34,6 @@ public class PlayerTest {
         for (int i = 0; i < 4; i++) {
             player.getHand().add(new Card((int) i));
         }
-
         assertFalse(player.isWinner());
     }
 
@@ -56,9 +61,8 @@ public class PlayerTest {
             assertEquals("test input", text);
             reader.close();
         } catch (IOException e) {
-
+            fail("test has failed due to exception error");
         }
-
     }
 
     @Test

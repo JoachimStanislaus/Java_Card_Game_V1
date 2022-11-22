@@ -9,6 +9,13 @@ import java.io.IOException;
 import org.junit.After;
 import org.junit.Before;
 
+/**
+ *
+ *
+ * @author 228027 & 231731
+ * @version 1.0
+ */
+
 public class DeckTest {
     private Deck deck;
     private int n;
@@ -64,9 +71,8 @@ public class DeckTest {
             assertEquals("deck" + (deck4.getDeckId() + 1) + " contents:  1 2 3 4", text);
             reader.close();
         } catch (IOException e) {
-
+            fail("test has failed due to exception error");
         }
-
     }
 
     @After
