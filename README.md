@@ -192,7 +192,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 - Keane7a@gmail.com - [@Joachimmmy](https://twitter.com/joachimmmy) - hello@joachimstanislaus.com
 
-Project Link: [https://github.com/joachimstanislaus/Java_Card_Game](https://github.com/joachimstanislaus/Java_Card_Game_V1)
+Project Link: [https://github.com/joachimstanislaus/Java_Card_Game_V1](https://github.com/joachimstanislaus/Java_Card_Game_V1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
