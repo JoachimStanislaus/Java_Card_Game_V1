@@ -21,32 +21,27 @@ public class Pack {
      * @param n        number of players
      * @throws InvalidNumberOfCardsException
      */
-    public Pack(String filename, int n) {
+    public Pack(String filename, int n) throws IOException, InvalidNumberOfCardsException {
         int numberOfCards = 8 * n;
         this.cards = new Card[numberOfCards];
-        try {
-            File file = new File(filename);
-            BufferedReader reader = new BufferedReader(new FileReader(file));
-            int index = 0;
-            String newline;
-            while ((newline = reader.readLine()) != null) {
-                if (index == numberOfCards) {
-                    throw new InvalidNumberOfCardsException(
-                            "Too many cards. There should be " + numberOfCards + " for " + n + " number of players.");
-                } else {
-                    Card card = new Card(Integer.parseInt(newline));
-                    cards[index] = card;
-                    index++;
-                }
-            }
-            if (index < numberOfCards) {
+        File file = new File(filename);
+        BufferedReader reader = new BufferedReader(new FileReader(file));
+        int index = 0;
+        String newline;
+        while ((newline = reader.readLine()) != null) {
+            if (index == numberOfCards) {
                 throw new InvalidNumberOfCardsException(
-                        "Lacking cards. There should be " + numberOfCards + " for " + n + " number of players.");
+                        "Too many cards. There should be " + numberOfCards + " for " + n + " number of players.");
+            } else {
+                Card card = new Card(Integer.parseInt(newline));
+                cards[index] = card;
+                index++;
             }
-        } catch (Exception e) {
-
         }
-
+        if (index < numberOfCards) {
+            throw new InvalidNumberOfCardsException(
+                    "Lacking cards. There should be " + numberOfCards + " for " + n + " number of players.");
+        }
     }
 
     /**

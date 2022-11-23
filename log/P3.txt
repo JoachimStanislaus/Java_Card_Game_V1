@@ -1,0 +1,55 @@
+player 3 initial hand [6, 4, 7, 7]
+Player 3 draws 5 from deck 3
+Player 3 discards 6 to deck 4
+Player 3 current hand [4, 7, 7, 5]
+Player 3 draws 3 from deck 3
+Player 3 discards 7 to deck 4
+Player 3 current hand [4, 7, 5, 3]
+Player 3 draws 4 from deck 3
+Player 3 discards 7 to deck 4
+Player 3 current hand [4, 5, 3, 4]
+Player 3 draws 5 from deck 3
+Player 3 discards 5 to deck 4
+Player 3 current hand [4, 3, 4, 5]
+Player 3 draws 3 from deck 3
+Player 3 discards 4 to deck 4
+Player 3 current hand [3, 4, 5, 3]
+Player 3 draws 5 from deck 3
+Player 3 discards 4 to deck 4
+Player 3 current hand [3, 5, 3, 5]
+Player 3 draws 7 from deck 3
+Player 3 discards 5 to deck 4
+Player 3 current hand [3, 5, 3, 7]
+Player 3 draws 8 from deck 3
+Player 3 discards 7 to deck 4
+Player 3 current hand [3, 5, 3, 8]
+Player 3 draws 1 from deck 3
+Player 3 discards 8 to deck 4
+Player 3 current hand [3, 5, 3, 1]
+Player 3 draws 5 from deck 3
+Player 3 discards 5 to deck 4
+Player 3 current hand [3, 3, 1, 5]
+Player 3 draws 6 from deck 3
+Player 3 discards 1 to deck 4
+Player 3 current hand [3, 3, 5, 6]
+Player 3 draws 4 from deck 3
+Player 3 discards 5 to deck 4
+Player 3 current hand [3, 3, 6, 4]
+Player 3 draws 8 from deck 3
+Player 3 discards 6 to deck 4
+Player 3 current hand [3, 3, 4, 8]
+Player 3 draws 8 from deck 3
+Player 3 discards 8 to deck 4
+Player 3 current hand [3, 3, 4, 8]
+Player 3 draws 4 from deck 3
+Player 3 discards 4 to deck 4
+Player 3 current hand [3, 3, 8, 4]
+Player 3 draws 3 from deck 3
+Player 3 discards 4 to deck 4
+Player 3 current hand [3, 3, 8, 3]
+Player 3 draws 3 from deck 3
+Player 3 discards 8 to deck 4
+Player 3 current hand [3, 3, 3, 3]
+P3 wins
+P3 exits
+P3 final hand [3, 3, 3, 3]

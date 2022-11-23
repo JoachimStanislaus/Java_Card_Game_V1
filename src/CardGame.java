@@ -48,11 +48,15 @@ public class CardGame {
                 System.out.println("Please enter a valid(int) number of players");
             } catch (IOException a) {
                 System.out.println("Exeception: " + a);
+            } catch (InvalidNumberOfCardsException a) {
+                System.out.println("Exeception: " + a);
             }
         } catch (NumberFormatException e) {
             System.out.println("Please enter a valid(int) number of players");
-        } catch (IOException a) {
-            System.out.println("Exeception: " + a);
+        } catch (IOException e) {
+            System.out.println("Exeception: " + e);
+        } catch (InvalidNumberOfCardsException e) {
+            System.out.println("Exeception: " + e);
         }
 
     }
@@ -63,77 +67,73 @@ public class CardGame {
      * @param n        number of players
      * @param packFile filename of the pack
      */
-    public static void startGame(int n, String packFile) {
-        try {
-            Pack pack = new Pack(packFile, n);
-            Deck[] decks = new Deck[n];
-            Card[] cardsInPack = pack.getCards();
-            Player[] players = new Player[n];
+    public static void startGame(int n, String packFile) throws IOException, InvalidNumberOfCardsException {
+        Pack pack = new Pack(packFile, n);
+        Deck[] decks = new Deck[n];
+        Card[] cardsInPack = pack.getCards();
+        Player[] players = new Player[n];
 
-            // create players and deck
-            players = createPlayers(n);
-            decks = createDeck(n);
+        // create players and deck
+        players = createPlayers(n);
+        decks = createDeck(n);
 
-            // Distribute the cards
-            for (int i = 0; i < 4 * n; i++) {
-                players[i % n].getHand().add(cardsInPack[i]);
+        // Distribute the cards
+        for (int i = 0; i < 4 * n; i++) {
+            players[i % n].getHand().add(cardsInPack[i]);
+        }
+        for (int i = 4 * n; i < 8 * n; i++) {
+            decks[i % n].addCard(cardsInPack[i]);
+        }
+
+        boolean isWinner = false;
+
+        // check if a player has won before the start of the game.
+        checkWinner(players);
+
+        // The game's main logic starts here
+        int winner = -1;
+        int turns = 0;
+        while (!isWinner) {
+            int playersTurn = turns++ % n;
+            int discardToDeck = (playersTurn + 1) % n;
+            int pickUpFromDeck = playersTurn;
+
+            synchronized (players[playersTurn]) {
+                Card newCard = decks[pickUpFromDeck].pickUpCard();
+                Card discardCard = players[playersTurn].playerTurn(newCard, discardToDeck, pickUpFromDeck);
+                decks[discardToDeck].addCard(discardCard);
+
             }
-            for (int i = 4 * n; i < 8 * n; i++) {
-                decks[i % n].addCard(cardsInPack[i]);
+            if (players[playersTurn].isWinner()) {
+                isWinner = true;
+                winner = players[playersTurn].getPlayerId();
+
             }
+            // use this function to print the content of decks and players to terminal every
+            // round
+            /*
+             * for (Deck deck : decks) {
+             * System.out.println(deck.toString());
+             * }
+             * for (Player player : players) {
+             * System.out.println("player: " + player.toString());
+             * }
+             */
+        }
 
-            boolean isWinner = false;
-
-            // check if a player has won before the start of the game.
-            checkWinner(players);
-
-            // The game's main logic starts here
-            int winner = -1;
-            int turns = 0;
-            while (!isWinner) {
-                int playersTurn = turns++ % n;
-                int discardToDeck = (playersTurn + 1) % n;
-                int pickUpFromDeck = playersTurn;
-
-                synchronized (players[playersTurn]) {
-                    Card newCard = decks[pickUpFromDeck].pickUpCard();
-                    Card discardCard = players[playersTurn].playerTurn(newCard, discardToDeck, pickUpFromDeck);
-                    decks[discardToDeck].addCard(discardCard);
-
-                }
-                if (players[playersTurn].isWinner()) {
-                    isWinner = true;
-                    winner = players[playersTurn].getPlayerId();
-
-                }
-                // use this function to print the content of decks and players to terminal every
-                // round
-                /*
-                 * for (Deck deck : decks) {
-                 * System.out.println(deck.toString());
-                 * }
-                 * for (Player player : players) {
-                 * System.out.println("player: " + player.toString());
-                 * }
-                 */
+        // validate if a player has won the game
+        for (Player player : players) {
+            if (player.isWinner()) {
+                System.out.println("Player " + player.getPlayerId() + " has won the game");
             }
+        }
 
-            // validate if a player has won the game
-            for (Player player : players) {
-                if (player.isWinner()) {
-                    System.out.println("Player " + player.getPlayerId() + " has won the game");
-                }
+        // inform player has won and write content of deck at the end of the game.
+        for (int i = 0; i < n; i++) {
+            synchronized (players[i]) {
+                players[i].informPlayerHasWon(winner);
             }
-
-            // inform player has won and write content of deck at the end of the game.
-            for (int i = 0; i < n; i++) {
-                synchronized (players[i]) {
-                    players[i].informPlayerHasWon(winner);
-                }
-                decks[i].writeDeckToFile();
-            }
-        } catch (IOException e) {
-            System.out.println("Exeception: " + e);
+            decks[i].writeDeckToFile();
         }
     }
 
