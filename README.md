@@ -1,14 +1,5 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -81,14 +72,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ### Built With
 
 * [![Java][Java.com]][Java-url]
@@ -113,18 +96,9 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/joachimstanislaus/Java_Card_Game.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -134,16 +108,60 @@ This is an example of how to list things you need to use the software and how to
 
 #### Run The Game From Jar Release
 
+1. Open terminal/command prompt in the directory where cards.jar is saved
+2. Run this command:
+```cmd
+java -jar cards.jar
+```
+3. Type the number of players and ENTER (if you want to use the test pack of cards, type 22)
+4. Type the filename of the pack of cards (testPack.txt will work)
+
 #### Run The Game From Source Code
 
+To run the game, run the main method of the `CardGame` class. You will be prompted to enter the number of players. If you want to use the test pack of cards, enter 22 for number of players. When asked for the filename of the pack of cards, enter `testPack.txt`. The game should ensue, and a winner established. Players will output their turns to seperate files under the `gameOutput` directory, along with the final state of each card deck.
+
 #### Run The Game From Windows Command Line
+
+1. In command prompt, navigate to the root folder of the project (automated-java-card-game)
+2. Run the command `javac -cp src;lib/junit-4.12 src/CardGame.java`
+3. Run the command `java -cp src;lib/junit-4.12 src/CardGame.java`
+4. Type the number of players and ENTER (if you want to use the test pack of cards, type 22)
+5. Type the filename of the pack of cards (testPack.txt will work)
 
 <!-- TESTING -->
 ### Testing
 
+To run the full test suite, compile the `src` folder and then run the `CardGameTestSuite` class. This will automatically run the individual test files for each class.
+
 #### Run The Test Suite
 
+To run the full test suite, compile the `src` folder and then run the `CardGameTestSuite` class. This will automatically run the individual test files for each class.
+
 #### Run The Test From Windows Command Line
+
+1. The tests must be run from the `src` directory. To switch to it from the root folder, use:
+```cmd
+cd src
+```
+2. Compile the source code to bytecode
+```cmd
+javac -cp .;../lib/junit-4.12.jar CardGameTestSuite.java
+```
+3. Run the tests with JUnit
+```cmd
+java -cp .;../lib/junit-4.12.jar;../lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore CardGameTestSuite
+```
+---
+The expected output is:
+```
+JUnit version 4.12
+....Player 1 has won
+............Player 42 has won
+
+Time: 0.071
+
+OK (16 tests)
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -159,12 +177,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- Game functionality -->
 ## Game functionality
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/joachimstanislaus/Java_Card_Game/issues) for a full list of proposed features (and known issues).
+The user can specify the number of players, n.
+Each player picks up and discards a card on their turn. 
+Players are numbered from 1 to n. 
+A player will keep cards that equal their player number. 
+If a player gets 4 of the same card, they win the game. 
+Players output their moves to text file in the folder `gameOutput`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -220,7 +238,6 @@ Project Link: [https://github.com/joachimstanislaus/Java_Card_Game](https://gith
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/joachimstanislaus/Java_Card_Game_V1.svg?style=for-the-badge
 [contributors-url]: https://github.com/joachimstanislaus/Java_Card_Game_V1/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/joachimstanislaus/Java_Card_Game_V1.svg?style=for-the-badge
