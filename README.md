@@ -211,7 +211,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/joachimmmy) - hello@joachimstanislaus.com
+- Keane7a@gmail.com - [@Joachimmmy](https://twitter.com/joachimmmy) - hello@joachimstanislaus.com
 
 Project Link: [https://github.com/joachimstanislaus/Java_Card_Game](https://github.com/joachimstanislaus/Java_Card_Game)
 
