@@ -127,8 +127,8 @@ To run the game, run the main method of the `CardGame` class. You will be prompt
 ### Run The Game From Windows Command Line
 
 1. In command prompt, navigate to the root folder of the project (automated-java-card-game)
-2. Run the command `javac -cp src;lib/junit-4.12 src/CardGame.java`
-3. Run the command `java -cp src;lib/junit-4.12 src/CardGame.java`
+2. Run the command `javac -cp src;lib/junit-4.13 src/CardGame.java`
+3. Run the command `java -cp src;lib/junit-4.13 src/CardGame.java`
 4. Type the number of players and ENTER (if you want to use the test pack of cards, type 22)
 5. Type the filename of the pack of cards (testPack.txt will work)
 
@@ -143,34 +143,34 @@ To run the game, run the main method of the `CardGame` class. You will be prompt
 
 ### Run The Test Suite
 
-To run the full test suite, compile the `src` folder and then run the `CardGameTestSuite` class. This will automatically run the individual test files for each class.
+To run the full test suite, compile the `test` folder and then run the `CardGameTestSuite` class. This will automatically run the individual test files for each class.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Run The Test From Windows Command Line
 
-1. The tests must be run from the `src` directory. To switch to it from the root folder, use:
+1. The tests must be run from the `test` directory. To switch to it from the root folder, use:
 ```cmd
-cd src
+cd test
 ```
 2. Compile the source code to bytecode
 ```cmd
-javac -cp .;../lib/junit-4.12.jar CardGameTestSuite.java
+javac -cp .;../lib/junit-4.13.2.jar CardGameTestSuite.java
 ```
 3. Run the tests with JUnit
 ```cmd
-java -cp .;../lib/junit-4.12.jar;../lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore CardGameTestSuite
+java -cp .;../lib/junit-4.13.2.jar;../lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore CardGameTestSuite
 ```
 ---
 The expected output is:
 ```
-JUnit version 4.12
-....Player 1 has won
-............Player 42 has won
+JUnit version 4.13.2
+.........Player 1 has won the game
+.Player 4 has won the game
+.....
+Time: 0.86
 
-Time: 0.071
-
-OK (16 tests)
+OK (15 tests)
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
