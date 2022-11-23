@@ -62,7 +62,6 @@
           <li><a href="#run-the-test-from-windows-command-line">Windows command line instructions</a></li>
     </ul>
     </li>  
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -176,17 +175,6 @@ OK (16 tests)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- Game functionality -->
 ## Game functionality
 
@@ -195,7 +183,7 @@ Each player picks up and discards a card on their turn.
 Players are numbered from 1 to n. 
 A player will keep cards that equal their player number. 
 If a player gets 4 of the same card, they win the game. 
-Players output their moves to text file in the folder `gameOutput`
+Players output their moves to text file in the folder `log`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -213,7 +201,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 - Keane7a@gmail.com - [@Joachimmmy](https://twitter.com/joachimmmy) - hello@joachimstanislaus.com
 
-Project Link: [https://github.com/joachimstanislaus/Java_Card_Game](https://github.com/joachimstanislaus/Java_Card_Game)
+Project Link: [https://github.com/joachimstanislaus/Java_Card_Game](https://github.com/joachimstanislaus/Java_Card_Game_V1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
