@@ -70,15 +70,9 @@ public class CardGame {
         Card[] cardsInPack = pack.getCards();
         Player[] players = new Player[n];
 
+        // create players and deck
         players = createPlayers(n);
         decks = createDeck(n);
-
-        // // create players
-        // for (int i = 0; i < n; i++) {
-        // players[i] = new Player(i + 1);
-        // players[i].start();
-        // decks[i] = new Deck(i);
-        // }
 
         // Distribute the cards
         for (int i = 0; i < 4 * n; i++) {
@@ -89,18 +83,8 @@ public class CardGame {
         }
 
         boolean isWinner = false;
-
-        // check if any player has won before the game starts.
-        /*
-         * for (Player player : players) {
-         * player.writeToPlayerFile("player " + player.getPlayerId() + " initial hand "
-         * + player.getHand());
-         * if (player.isWinner()) {
-         * System.out.println("Player " + player.getPlayerId() + " has won the game");
-         * isWinner = true;
-         * }
-         * }
-         */
+        // check if a player has won before the start of the game.
+        checkWinner(players);
 
         // The game's logic starts here
         int winner = -1;

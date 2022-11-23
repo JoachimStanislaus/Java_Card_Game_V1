@@ -1,109 +1,97 @@
-player 9 initial hand [8, 8, 17, 15]
-Player 9 draws 20 from deck 9
-Player 9 discards 8 to deck 10
-Player 9 current hand [8, 17, 15, 20]
-Player 9 draws 11 from deck 9
-Player 9 discards 15 to deck 10
-Player 9 current hand [8, 17, 20, 11]
-Player 9 draws 14 from deck 9
-Player 9 discards 17 to deck 10
-Player 9 current hand [8, 20, 11, 14]
-Player 9 draws 3 from deck 9
-Player 9 discards 20 to deck 10
-Player 9 current hand [8, 11, 14, 3]
-Player 9 draws 1 from deck 9
-Player 9 discards 3 to deck 10
-Player 9 current hand [8, 11, 14, 1]
-Player 9 draws 12 from deck 9
-Player 9 discards 1 to deck 10
-Player 9 current hand [8, 11, 14, 12]
-Player 9 draws 11 from deck 9
-Player 9 discards 8 to deck 10
-Player 9 current hand [11, 14, 12, 11]
-Player 9 draws 17 from deck 9
-Player 9 discards 12 to deck 10
-Player 9 current hand [11, 14, 11, 17]
-Player 9 draws 3 from deck 9
-Player 9 discards 11 to deck 10
-Player 9 current hand [11, 14, 17, 3]
-Player 9 draws 3 from deck 9
-Player 9 discards 11 to deck 10
-Player 9 current hand [14, 17, 3, 3]
-Player 9 draws 15 from deck 9
-Player 9 discards 14 to deck 10
-Player 9 current hand [17, 3, 3, 15]
-Player 9 draws 16 from deck 9
-Player 9 discards 15 to deck 10
-Player 9 current hand [17, 3, 3, 16]
-Player 9 draws 6 from deck 9
-Player 9 discards 16 to deck 10
-Player 9 current hand [17, 3, 3, 6]
-Player 9 draws 10 from deck 9
-Player 9 discards 6 to deck 10
-Player 9 current hand [17, 3, 3, 10]
-Player 9 draws 2 from deck 9
-Player 9 discards 3 to deck 10
-Player 9 current hand [17, 3, 10, 2]
+player 9 initial hand [5, 10, 7, 1]
+Player 9 draws 13 from deck 9
+Player 9 discards 7 to deck 10
+Player 9 current hand [5, 10, 1, 13]
 Player 9 draws 4 from deck 9
-Player 9 discards 17 to deck 10
-Player 9 current hand [3, 10, 2, 4]
-Player 9 draws 18 from deck 9
-Player 9 discards 10 to deck 10
-Player 9 current hand [3, 2, 4, 18]
-Player 9 draws 9 from deck 9
-Player 9 discards 18 to deck 10
-Player 9 current hand [3, 2, 4, 9]
-Player 9 draws 20 from deck 9
-Player 9 discards 2 to deck 10
-Player 9 current hand [3, 4, 9, 20]
-Player 9 draws 1 from deck 9
-Player 9 discards 3 to deck 10
-Player 9 current hand [4, 9, 20, 1]
-Player 9 draws 15 from deck 9
-Player 9 discards 20 to deck 10
-Player 9 current hand [4, 9, 1, 15]
-Player 9 draws 18 from deck 9
 Player 9 discards 1 to deck 10
-Player 9 current hand [4, 9, 15, 18]
-Player 9 draws 20 from deck 9
+Player 9 current hand [5, 10, 13, 4]
+Player 9 draws 18 from deck 9
 Player 9 discards 4 to deck 10
-Player 9 current hand [9, 15, 18, 20]
-Player 9 draws 1 from deck 9
-Player 9 discards 20 to deck 10
-Player 9 current hand [9, 15, 18, 1]
-Player 9 draws 10 from deck 9
-Player 9 discards 15 to deck 10
-Player 9 current hand [9, 18, 1, 10]
-Player 9 draws 10 from deck 9
-Player 9 discards 1 to deck 10
-Player 9 current hand [9, 18, 10, 10]
-Player 9 draws 14 from deck 9
-Player 9 discards 18 to deck 10
-Player 9 current hand [9, 10, 10, 14]
-Player 9 draws 12 from deck 9
-Player 9 discards 14 to deck 10
-Player 9 current hand [9, 10, 10, 12]
-Player 9 draws 1 from deck 9
-Player 9 discards 10 to deck 10
-Player 9 current hand [9, 10, 12, 1]
-Player 9 draws 5 from deck 9
-Player 9 discards 10 to deck 10
-Player 9 current hand [9, 12, 1, 5]
-Player 9 draws 12 from deck 9
-Player 9 discards 1 to deck 10
-Player 9 current hand [9, 12, 5, 12]
-Player 9 draws 3 from deck 9
-Player 9 discards 5 to deck 10
-Player 9 current hand [9, 12, 12, 3]
+Player 9 current hand [5, 10, 13, 18]
 Player 9 draws 19 from deck 9
+Player 9 discards 5 to deck 10
+Player 9 current hand [10, 13, 18, 19]
+Player 9 draws 12 from deck 9
+Player 9 discards 18 to deck 10
+Player 9 current hand [10, 13, 19, 12]
+Player 9 draws 20 from deck 9
 Player 9 discards 12 to deck 10
-Player 9 current hand [9, 12, 3, 19]
+Player 9 current hand [10, 13, 19, 20]
+Player 9 draws 22 from deck 9
+Player 9 discards 10 to deck 10
+Player 9 current hand [13, 19, 20, 22]
+Player 9 draws 4 from deck 9
+Player 9 discards 22 to deck 10
+Player 9 current hand [13, 19, 20, 4]
+Player 9 draws 1 from deck 9
+Player 9 discards 13 to deck 10
+Player 9 current hand [19, 20, 4, 1]
+Player 9 draws 11 from deck 9
+Player 9 discards 19 to deck 10
+Player 9 current hand [20, 4, 1, 11]
+Player 9 draws 6 from deck 9
+Player 9 discards 11 to deck 10
+Player 9 current hand [20, 4, 1, 6]
+Player 9 draws 6 from deck 9
+Player 9 discards 1 to deck 10
+Player 9 current hand [20, 4, 6, 6]
+Player 9 draws 13 from deck 9
+Player 9 discards 6 to deck 10
+Player 9 current hand [20, 4, 6, 13]
+Player 9 draws 6 from deck 9
+Player 9 discards 4 to deck 10
+Player 9 current hand [20, 6, 13, 6]
+Player 9 draws 19 from deck 9
+Player 9 discards 6 to deck 10
+Player 9 current hand [20, 6, 13, 19]
+Player 9 draws 20 from deck 9
+Player 9 discards 6 to deck 10
+Player 9 current hand [20, 13, 19, 20]
+Player 9 draws 21 from deck 9
+Player 9 discards 20 to deck 10
+Player 9 current hand [13, 19, 20, 21]
+Player 9 draws 16 from deck 9
+Player 9 discards 21 to deck 10
+Player 9 current hand [13, 19, 20, 16]
+Player 9 draws 3 from deck 9
+Player 9 discards 16 to deck 10
+Player 9 current hand [13, 19, 20, 3]
+Player 9 draws 11 from deck 9
+Player 9 discards 13 to deck 10
+Player 9 current hand [19, 20, 3, 11]
+Player 9 draws 17 from deck 9
+Player 9 discards 11 to deck 10
+Player 9 current hand [19, 20, 3, 17]
 Player 9 draws 18 from deck 9
-Player 9 discards 12 to deck 10
-Player 9 current hand [9, 3, 19, 18]
-Player 9 draws 14 from deck 9
+Player 9 discards 20 to deck 10
+Player 9 current hand [19, 3, 17, 18]
+Player 9 draws 9 from deck 9
 Player 9 discards 3 to deck 10
-Player 9 current hand [9, 19, 18, 14]
-P2 has informed P9 that P2 has won
+Player 9 current hand [19, 17, 18, 9]
+Player 9 draws 15 from deck 9
+Player 9 discards 17 to deck 10
+Player 9 current hand [19, 18, 9, 15]
+Player 9 draws 17 from deck 9
+Player 9 discards 15 to deck 10
+Player 9 current hand [19, 18, 9, 17]
+Player 9 draws 9 from deck 9
+Player 9 discards 19 to deck 10
+Player 9 current hand [18, 9, 17, 9]
+Player 9 draws 14 from deck 9
+Player 9 discards 17 to deck 10
+Player 9 current hand [18, 9, 9, 14]
+Player 9 draws 21 from deck 9
+Player 9 discards 18 to deck 10
+Player 9 current hand [9, 9, 14, 21]
+Player 9 draws 3 from deck 9
+Player 9 discards 14 to deck 10
+Player 9 current hand [9, 9, 21, 3]
+Player 9 draws 15 from deck 9
+Player 9 discards 3 to deck 10
+Player 9 current hand [9, 9, 21, 15]
+Player 9 draws 22 from deck 9
+Player 9 discards 21 to deck 10
+Player 9 current hand [9, 9, 15, 22]
+P11 has informed P9 that P11 has won
 P9 exits
-P9 hand [9, 19, 18, 14]
+P9 hand [9, 9, 15, 22]
