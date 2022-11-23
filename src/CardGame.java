@@ -81,6 +81,7 @@ public class CardGame {
         for (int i = 0; i < 4 * n; i++) {
             players[i % n].getHand().add(cardsInPack[i]);
         }
+
         for (int i = 4 * n; i < 8 * n; i++) {
             decks[i % n].addCard(cardsInPack[i]);
         }

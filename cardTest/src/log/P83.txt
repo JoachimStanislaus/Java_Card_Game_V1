@@ -1,0 +1,673 @@
+player 83 initial hand [76, 143, 104, 70]
+Player 83 draws 104 from deck 83
+Player 83 discards 76 to deck 84
+Player 83 current hand [143, 104, 70, 104]
+Player 83 draws 154 from deck 83
+Player 83 discards 70 to deck 84
+Player 83 current hand [143, 104, 104, 154]
+Player 83 draws 118 from deck 83
+Player 83 discards 154 to deck 84
+Player 83 current hand [143, 104, 104, 118]
+Player 83 draws 98 from deck 83
+Player 83 discards 118 to deck 84
+Player 83 current hand [143, 104, 104, 98]
+Player 83 draws 96 from deck 83
+Player 83 discards 104 to deck 84
+Player 83 current hand [143, 104, 98, 96]
+Player 83 draws 66 from deck 83
+Player 83 discards 96 to deck 84
+Player 83 current hand [143, 104, 98, 66]
+Player 83 draws 147 from deck 83
+Player 83 discards 66 to deck 84
+Player 83 current hand [143, 104, 98, 147]
+Player 83 draws 85 from deck 83
+Player 83 discards 98 to deck 84
+Player 83 current hand [143, 104, 147, 85]
+Player 83 draws 7 from deck 83
+Player 83 discards 143 to deck 84
+Player 83 current hand [104, 147, 85, 7]
+Player 83 draws 95 from deck 83
+Player 83 discards 104 to deck 84
+Player 83 current hand [147, 85, 7, 95]
+Player 83 draws 26 from deck 83
+Player 83 discards 85 to deck 84
+Player 83 current hand [147, 7, 95, 26]
+Player 83 draws 1 from deck 83
+Player 83 discards 147 to deck 84
+Player 83 current hand [7, 95, 26, 1]
+Player 83 draws 156 from deck 83
+Player 83 discards 26 to deck 84
+Player 83 current hand [7, 95, 1, 156]
+Player 83 draws 155 from deck 83
+Player 83 discards 7 to deck 84
+Player 83 current hand [95, 1, 156, 155]
+Player 83 draws 156 from deck 83
+Player 83 discards 95 to deck 84
+Player 83 current hand [1, 156, 155, 156]
+Player 83 draws 12 from deck 83
+Player 83 discards 1 to deck 84
+Player 83 current hand [156, 155, 156, 12]
+Player 83 draws 87 from deck 83
+Player 83 discards 12 to deck 84
+Player 83 current hand [156, 155, 156, 87]
+Player 83 draws 120 from deck 83
+Player 83 discards 87 to deck 84
+Player 83 current hand [156, 155, 156, 120]
+Player 83 draws 47 from deck 83
+Player 83 discards 156 to deck 84
+Player 83 current hand [156, 155, 120, 47]
+Player 83 draws 126 from deck 83
+Player 83 discards 155 to deck 84
+Player 83 current hand [156, 120, 47, 126]
+Player 83 draws 83 from deck 83
+Player 83 discards 156 to deck 84
+Player 83 current hand [120, 47, 126, 83]
+Player 83 draws 91 from deck 83
+Player 83 discards 47 to deck 84
+Player 83 current hand [120, 126, 83, 91]
+Player 83 draws 36 from deck 83
+Player 83 discards 91 to deck 84
+Player 83 current hand [120, 126, 83, 36]
+Player 83 draws 130 from deck 83
+Player 83 discards 120 to deck 84
+Player 83 current hand [126, 83, 36, 130]
+Player 83 draws 89 from deck 83
+Player 83 discards 126 to deck 84
+Player 83 current hand [83, 36, 130, 89]
+Player 83 draws 92 from deck 83
+Player 83 discards 36 to deck 84
+Player 83 current hand [83, 130, 89, 92]
+Player 83 draws 28 from deck 83
+Player 83 discards 92 to deck 84
+Player 83 current hand [83, 130, 89, 28]
+Player 83 draws 90 from deck 83
+Player 83 discards 89 to deck 84
+Player 83 current hand [83, 130, 28, 90]
+Player 83 draws 170 from deck 83
+Player 83 discards 90 to deck 84
+Player 83 current hand [83, 130, 28, 170]
+Player 83 draws 166 from deck 83
+Player 83 discards 28 to deck 84
+Player 83 current hand [83, 130, 170, 166]
+Player 83 draws 100 from deck 83
+Player 83 discards 166 to deck 84
+Player 83 current hand [83, 130, 170, 100]
+Player 83 draws 100 from deck 83
+Player 83 discards 130 to deck 84
+Player 83 current hand [83, 170, 100, 100]
+Player 83 draws 97 from deck 83
+Player 83 discards 100 to deck 84
+Player 83 current hand [83, 170, 100, 97]
+Player 83 draws 106 from deck 83
+Player 83 discards 170 to deck 84
+Player 83 current hand [83, 100, 97, 106]
+Player 83 draws 145 from deck 83
+Player 83 discards 97 to deck 84
+Player 83 current hand [83, 100, 106, 145]
+Player 83 draws 121 from deck 83
+Player 83 discards 100 to deck 84
+Player 83 current hand [83, 106, 145, 121]
+Player 83 draws 108 from deck 83
+Player 83 discards 106 to deck 84
+Player 83 current hand [83, 145, 121, 108]
+Player 83 draws 99 from deck 83
+Player 83 discards 121 to deck 84
+Player 83 current hand [83, 145, 108, 99]
+Player 83 draws 74 from deck 83
+Player 83 discards 99 to deck 84
+Player 83 current hand [83, 145, 108, 74]
+Player 83 draws 174 from deck 83
+Player 83 discards 145 to deck 84
+Player 83 current hand [83, 108, 74, 174]
+Player 83 draws 48 from deck 83
+Player 83 discards 74 to deck 84
+Player 83 current hand [83, 108, 174, 48]
+Player 83 draws 150 from deck 83
+Player 83 discards 48 to deck 84
+Player 83 current hand [83, 108, 174, 150]
+Player 83 draws 47 from deck 83
+Player 83 discards 108 to deck 84
+Player 83 current hand [83, 174, 150, 47]
+Player 83 draws 56 from deck 83
+Player 83 discards 174 to deck 84
+Player 83 current hand [83, 150, 47, 56]
+Player 83 draws 43 from deck 83
+Player 83 discards 56 to deck 84
+Player 83 current hand [83, 150, 47, 43]
+Player 83 draws 88 from deck 83
+Player 83 discards 150 to deck 84
+Player 83 current hand [83, 47, 43, 88]
+Player 83 draws 14 from deck 83
+Player 83 discards 43 to deck 84
+Player 83 current hand [83, 47, 88, 14]
+Player 83 draws 98 from deck 83
+Player 83 discards 88 to deck 84
+Player 83 current hand [83, 47, 14, 98]
+Player 83 draws 40 from deck 83
+Player 83 discards 98 to deck 84
+Player 83 current hand [83, 47, 14, 40]
+Player 83 draws 25 from deck 83
+Player 83 discards 14 to deck 84
+Player 83 current hand [83, 47, 40, 25]
+Player 83 draws 110 from deck 83
+Player 83 discards 40 to deck 84
+Player 83 current hand [83, 47, 25, 110]
+Player 83 draws 106 from deck 83
+Player 83 discards 25 to deck 84
+Player 83 current hand [83, 47, 110, 106]
+Player 83 draws 135 from deck 83
+Player 83 discards 106 to deck 84
+Player 83 current hand [83, 47, 110, 135]
+Player 83 draws 86 from deck 83
+Player 83 discards 47 to deck 84
+Player 83 current hand [83, 110, 135, 86]
+Player 83 draws 46 from deck 83
+Player 83 discards 86 to deck 84
+Player 83 current hand [83, 110, 135, 46]
+Player 83 draws 3 from deck 83
+Player 83 discards 110 to deck 84
+Player 83 current hand [83, 135, 46, 3]
+Player 83 draws 96 from deck 83
+Player 83 discards 3 to deck 84
+Player 83 current hand [83, 135, 46, 96]
+Player 83 draws 56 from deck 83
+Player 83 discards 135 to deck 84
+Player 83 current hand [83, 46, 96, 56]
+Player 83 draws 86 from deck 83
+Player 83 discards 46 to deck 84
+Player 83 current hand [83, 96, 56, 86]
+Player 83 draws 171 from deck 83
+Player 83 discards 86 to deck 84
+Player 83 current hand [83, 96, 56, 171]
+Player 83 draws 173 from deck 83
+Player 83 discards 171 to deck 84
+Player 83 current hand [83, 96, 56, 173]
+Player 83 draws 116 from deck 83
+Player 83 discards 56 to deck 84
+Player 83 current hand [83, 96, 173, 116]
+Player 83 draws 12 from deck 83
+Player 83 discards 96 to deck 84
+Player 83 current hand [83, 173, 116, 12]
+Player 83 draws 5 from deck 83
+Player 83 discards 12 to deck 84
+Player 83 current hand [83, 173, 116, 5]
+Player 83 draws 136 from deck 83
+Player 83 discards 116 to deck 84
+Player 83 current hand [83, 173, 5, 136]
+Player 83 draws 142 from deck 83
+Player 83 discards 5 to deck 84
+Player 83 current hand [83, 173, 136, 142]
+Player 83 draws 133 from deck 83
+Player 83 discards 173 to deck 84
+Player 83 current hand [83, 136, 142, 133]
+Player 83 draws 92 from deck 83
+Player 83 discards 142 to deck 84
+Player 83 current hand [83, 136, 133, 92]
+Player 83 draws 34 from deck 83
+Player 83 discards 133 to deck 84
+Player 83 current hand [83, 136, 92, 34]
+Player 83 draws 114 from deck 83
+Player 83 discards 136 to deck 84
+Player 83 current hand [83, 92, 34, 114]
+Player 83 draws 96 from deck 83
+Player 83 discards 92 to deck 84
+Player 83 current hand [83, 34, 114, 96]
+Player 83 draws 21 from deck 83
+Player 83 discards 114 to deck 84
+Player 83 current hand [83, 34, 96, 21]
+Player 83 draws 103 from deck 83
+Player 83 discards 21 to deck 84
+Player 83 current hand [83, 34, 96, 103]
+Player 83 draws 151 from deck 83
+Player 83 discards 96 to deck 84
+Player 83 current hand [83, 34, 103, 151]
+Player 83 draws 39 from deck 83
+Player 83 discards 151 to deck 84
+Player 83 current hand [83, 34, 103, 39]
+Player 83 draws 139 from deck 83
+Player 83 discards 103 to deck 84
+Player 83 current hand [83, 34, 39, 139]
+Player 83 draws 20 from deck 83
+Player 83 discards 34 to deck 84
+Player 83 current hand [83, 39, 139, 20]
+Player 83 draws 157 from deck 83
+Player 83 discards 139 to deck 84
+Player 83 current hand [83, 39, 20, 157]
+Player 83 draws 41 from deck 83
+Player 83 discards 39 to deck 84
+Player 83 current hand [83, 20, 157, 41]
+Player 83 draws 22 from deck 83
+Player 83 discards 157 to deck 84
+Player 83 current hand [83, 20, 41, 22]
+Player 83 draws 43 from deck 83
+Player 83 discards 41 to deck 84
+Player 83 current hand [83, 20, 22, 43]
+Player 83 draws 1 from deck 83
+Player 83 discards 43 to deck 84
+Player 83 current hand [83, 20, 22, 1]
+Player 83 draws 151 from deck 83
+Player 83 discards 22 to deck 84
+Player 83 current hand [83, 20, 1, 151]
+Player 83 draws 148 from deck 83
+Player 83 discards 20 to deck 84
+Player 83 current hand [83, 1, 151, 148]
+Player 83 draws 110 from deck 83
+Player 83 discards 148 to deck 84
+Player 83 current hand [83, 1, 151, 110]
+Player 83 draws 140 from deck 83
+Player 83 discards 1 to deck 84
+Player 83 current hand [83, 151, 110, 140]
+Player 83 draws 167 from deck 83
+Player 83 discards 110 to deck 84
+Player 83 current hand [83, 151, 140, 167]
+Player 83 draws 103 from deck 83
+Player 83 discards 151 to deck 84
+Player 83 current hand [83, 140, 167, 103]
+Player 83 draws 15 from deck 83
+Player 83 discards 103 to deck 84
+Player 83 current hand [83, 140, 167, 15]
+Player 83 draws 2 from deck 83
+Player 83 discards 15 to deck 84
+Player 83 current hand [83, 140, 167, 2]
+Player 83 draws 171 from deck 83
+Player 83 discards 167 to deck 84
+Player 83 current hand [83, 140, 2, 171]
+Player 83 draws 173 from deck 83
+Player 83 discards 140 to deck 84
+Player 83 current hand [83, 2, 171, 173]
+Player 83 draws 109 from deck 83
+Player 83 discards 173 to deck 84
+Player 83 current hand [83, 2, 171, 109]
+Player 83 draws 95 from deck 83
+Player 83 discards 171 to deck 84
+Player 83 current hand [83, 2, 109, 95]
+Player 83 draws 137 from deck 83
+Player 83 discards 2 to deck 84
+Player 83 current hand [83, 109, 95, 137]
+Player 83 draws 102 from deck 83
+Player 83 discards 95 to deck 84
+Player 83 current hand [83, 109, 137, 102]
+Player 83 draws 35 from deck 83
+Player 83 discards 102 to deck 84
+Player 83 current hand [83, 109, 137, 35]
+Player 83 draws 67 from deck 83
+Player 83 discards 137 to deck 84
+Player 83 current hand [83, 109, 35, 67]
+Player 83 draws 28 from deck 83
+Player 83 discards 35 to deck 84
+Player 83 current hand [83, 109, 67, 28]
+Player 83 draws 154 from deck 83
+Player 83 discards 28 to deck 84
+Player 83 current hand [83, 109, 67, 154]
+Player 83 draws 19 from deck 83
+Player 83 discards 154 to deck 84
+Player 83 current hand [83, 109, 67, 19]
+Player 83 draws 36 from deck 83
+Player 83 discards 67 to deck 84
+Player 83 current hand [83, 109, 19, 36]
+Player 83 draws 142 from deck 83
+Player 83 discards 19 to deck 84
+Player 83 current hand [83, 109, 36, 142]
+Player 83 draws 50 from deck 83
+Player 83 discards 109 to deck 84
+Player 83 current hand [83, 36, 142, 50]
+Player 83 draws 8 from deck 83
+Player 83 discards 50 to deck 84
+Player 83 current hand [83, 36, 142, 8]
+Player 83 draws 175 from deck 83
+Player 83 discards 36 to deck 84
+Player 83 current hand [83, 142, 8, 175]
+Player 83 draws 111 from deck 83
+Player 83 discards 8 to deck 84
+Player 83 current hand [83, 142, 175, 111]
+Player 83 draws 158 from deck 83
+Player 83 discards 111 to deck 84
+Player 83 current hand [83, 142, 175, 158]
+Player 83 draws 6 from deck 83
+Player 83 discards 142 to deck 84
+Player 83 current hand [83, 175, 158, 6]
+Player 83 draws 6 from deck 83
+Player 83 discards 158 to deck 84
+Player 83 current hand [83, 175, 6, 6]
+Player 83 draws 98 from deck 83
+Player 83 discards 6 to deck 84
+Player 83 current hand [83, 175, 6, 98]
+Player 83 draws 147 from deck 83
+Player 83 discards 175 to deck 84
+Player 83 current hand [83, 6, 98, 147]
+Player 83 draws 129 from deck 83
+Player 83 discards 98 to deck 84
+Player 83 current hand [83, 6, 147, 129]
+Player 83 draws 166 from deck 83
+Player 83 discards 147 to deck 84
+Player 83 current hand [83, 6, 129, 166]
+Player 83 draws 5 from deck 83
+Player 83 discards 166 to deck 84
+Player 83 current hand [83, 6, 129, 5]
+Player 83 draws 9 from deck 83
+Player 83 discards 129 to deck 84
+Player 83 current hand [83, 6, 5, 9]
+Player 83 draws 169 from deck 83
+Player 83 discards 9 to deck 84
+Player 83 current hand [83, 6, 5, 169]
+Player 83 draws 56 from deck 83
+Player 83 discards 169 to deck 84
+Player 83 current hand [83, 6, 5, 56]
+Player 83 draws 118 from deck 83
+Player 83 discards 5 to deck 84
+Player 83 current hand [83, 6, 56, 118]
+Player 83 draws 153 from deck 83
+Player 83 discards 118 to deck 84
+Player 83 current hand [83, 6, 56, 153]
+Player 83 draws 54 from deck 83
+Player 83 discards 153 to deck 84
+Player 83 current hand [83, 6, 56, 54]
+Player 83 draws 141 from deck 83
+Player 83 discards 6 to deck 84
+Player 83 current hand [83, 56, 54, 141]
+Player 83 draws 167 from deck 83
+Player 83 discards 54 to deck 84
+Player 83 current hand [83, 56, 141, 167]
+Player 83 draws 169 from deck 83
+Player 83 discards 141 to deck 84
+Player 83 current hand [83, 56, 167, 169]
+Player 83 draws 116 from deck 83
+Player 83 discards 56 to deck 84
+Player 83 current hand [83, 167, 169, 116]
+Player 83 draws 170 from deck 83
+Player 83 discards 169 to deck 84
+Player 83 current hand [83, 167, 116, 170]
+Player 83 draws 107 from deck 83
+Player 83 discards 167 to deck 84
+Player 83 current hand [83, 116, 170, 107]
+Player 83 draws 133 from deck 83
+Player 83 discards 107 to deck 84
+Player 83 current hand [83, 116, 170, 133]
+Player 83 draws 101 from deck 83
+Player 83 discards 170 to deck 84
+Player 83 current hand [83, 116, 133, 101]
+Player 83 draws 159 from deck 83
+Player 83 discards 101 to deck 84
+Player 83 current hand [83, 116, 133, 159]
+Player 83 draws 168 from deck 83
+Player 83 discards 116 to deck 84
+Player 83 current hand [83, 133, 159, 168]
+Player 83 draws 118 from deck 83
+Player 83 discards 133 to deck 84
+Player 83 current hand [83, 159, 168, 118]
+Player 83 draws 95 from deck 83
+Player 83 discards 118 to deck 84
+Player 83 current hand [83, 159, 168, 95]
+Player 83 draws 32 from deck 83
+Player 83 discards 159 to deck 84
+Player 83 current hand [83, 168, 95, 32]
+Player 83 draws 151 from deck 83
+Player 83 discards 95 to deck 84
+Player 83 current hand [83, 168, 32, 151]
+Player 83 draws 157 from deck 83
+Player 83 discards 168 to deck 84
+Player 83 current hand [83, 32, 151, 157]
+Player 83 draws 148 from deck 83
+Player 83 discards 32 to deck 84
+Player 83 current hand [83, 151, 157, 148]
+Player 83 draws 65 from deck 83
+Player 83 discards 151 to deck 84
+Player 83 current hand [83, 157, 148, 65]
+Player 83 draws 8 from deck 83
+Player 83 discards 148 to deck 84
+Player 83 current hand [83, 157, 65, 8]
+Player 83 draws 109 from deck 83
+Player 83 discards 157 to deck 84
+Player 83 current hand [83, 65, 8, 109]
+Player 83 draws 85 from deck 83
+Player 83 discards 8 to deck 84
+Player 83 current hand [83, 65, 109, 85]
+Player 83 draws 105 from deck 83
+Player 83 discards 85 to deck 84
+Player 83 current hand [83, 65, 109, 105]
+Player 83 draws 7 from deck 83
+Player 83 discards 105 to deck 84
+Player 83 current hand [83, 65, 109, 7]
+Player 83 draws 110 from deck 83
+Player 83 discards 65 to deck 84
+Player 83 current hand [83, 109, 7, 110]
+Player 83 draws 137 from deck 83
+Player 83 discards 110 to deck 84
+Player 83 current hand [83, 109, 7, 137]
+Player 83 draws 135 from deck 83
+Player 83 discards 109 to deck 84
+Player 83 current hand [83, 7, 137, 135]
+Player 83 draws 128 from deck 83
+Player 83 discards 135 to deck 84
+Player 83 current hand [83, 7, 137, 128]
+Player 83 draws 36 from deck 83
+Player 83 discards 7 to deck 84
+Player 83 current hand [83, 137, 128, 36]
+Player 83 draws 97 from deck 83
+Player 83 discards 128 to deck 84
+Player 83 current hand [83, 137, 36, 97]
+Player 83 draws 171 from deck 83
+Player 83 discards 36 to deck 84
+Player 83 current hand [83, 137, 97, 171]
+Player 83 draws 113 from deck 83
+Player 83 discards 171 to deck 84
+Player 83 current hand [83, 137, 97, 113]
+Player 83 draws 109 from deck 83
+Player 83 discards 97 to deck 84
+Player 83 current hand [83, 137, 113, 109]
+Player 83 draws 111 from deck 83
+Player 83 discards 137 to deck 84
+Player 83 current hand [83, 113, 109, 111]
+Player 83 draws 2 from deck 83
+Player 83 discards 113 to deck 84
+Player 83 current hand [83, 109, 111, 2]
+Player 83 draws 13 from deck 83
+Player 83 discards 2 to deck 84
+Player 83 current hand [83, 109, 111, 13]
+Player 83 draws 127 from deck 83
+Player 83 discards 111 to deck 84
+Player 83 current hand [83, 109, 13, 127]
+Player 83 draws 12 from deck 83
+Player 83 discards 13 to deck 84
+Player 83 current hand [83, 109, 127, 12]
+Player 83 draws 55 from deck 83
+Player 83 discards 109 to deck 84
+Player 83 current hand [83, 127, 12, 55]
+Player 83 draws 131 from deck 83
+Player 83 discards 12 to deck 84
+Player 83 current hand [83, 127, 55, 131]
+Player 83 draws 127 from deck 83
+Player 83 discards 131 to deck 84
+Player 83 current hand [83, 127, 55, 127]
+Player 83 draws 143 from deck 83
+Player 83 discards 127 to deck 84
+Player 83 current hand [83, 127, 55, 143]
+Player 83 draws 159 from deck 83
+Player 83 discards 55 to deck 84
+Player 83 current hand [83, 127, 143, 159]
+Player 83 draws 131 from deck 83
+Player 83 discards 143 to deck 84
+Player 83 current hand [83, 127, 159, 131]
+Player 83 draws 10 from deck 83
+Player 83 discards 131 to deck 84
+Player 83 current hand [83, 127, 159, 10]
+Player 83 draws 54 from deck 83
+Player 83 discards 127 to deck 84
+Player 83 current hand [83, 159, 10, 54]
+Player 83 draws 105 from deck 83
+Player 83 discards 159 to deck 84
+Player 83 current hand [83, 10, 54, 105]
+Player 83 draws 101 from deck 83
+Player 83 discards 54 to deck 84
+Player 83 current hand [83, 10, 105, 101]
+Player 83 draws 30 from deck 83
+Player 83 discards 10 to deck 84
+Player 83 current hand [83, 105, 101, 30]
+Player 83 draws 103 from deck 83
+Player 83 discards 30 to deck 84
+Player 83 current hand [83, 105, 101, 103]
+Player 83 draws 89 from deck 83
+Player 83 discards 101 to deck 84
+Player 83 current hand [83, 105, 103, 89]
+Player 83 draws 91 from deck 83
+Player 83 discards 105 to deck 84
+Player 83 current hand [83, 103, 89, 91]
+Player 83 draws 1 from deck 83
+Player 83 discards 89 to deck 84
+Player 83 current hand [83, 103, 91, 1]
+Player 83 draws 87 from deck 83
+Player 83 discards 1 to deck 84
+Player 83 current hand [83, 103, 91, 87]
+Player 83 draws 134 from deck 83
+Player 83 discards 103 to deck 84
+Player 83 current hand [83, 91, 87, 134]
+Player 83 draws 50 from deck 83
+Player 83 discards 134 to deck 84
+Player 83 current hand [83, 91, 87, 50]
+Player 83 draws 124 from deck 83
+Player 83 discards 50 to deck 84
+Player 83 current hand [83, 91, 87, 124]
+Player 83 draws 124 from deck 83
+Player 83 discards 91 to deck 84
+Player 83 current hand [83, 87, 124, 124]
+Player 83 draws 15 from deck 83
+Player 83 discards 87 to deck 84
+Player 83 current hand [83, 124, 124, 15]
+Player 83 draws 42 from deck 83
+Player 83 discards 15 to deck 84
+Player 83 current hand [83, 124, 124, 42]
+Player 83 draws 48 from deck 83
+Player 83 discards 42 to deck 84
+Player 83 current hand [83, 124, 124, 48]
+Player 83 draws 3 from deck 83
+Player 83 discards 48 to deck 84
+Player 83 current hand [83, 124, 124, 3]
+Player 83 draws 155 from deck 83
+Player 83 discards 3 to deck 84
+Player 83 current hand [83, 124, 124, 155]
+Player 83 draws 44 from deck 83
+Player 83 discards 155 to deck 84
+Player 83 current hand [83, 124, 124, 44]
+Player 83 draws 174 from deck 83
+Player 83 discards 124 to deck 84
+Player 83 current hand [83, 124, 44, 174]
+Player 83 draws 113 from deck 83
+Player 83 discards 44 to deck 84
+Player 83 current hand [83, 124, 174, 113]
+Player 83 draws 139 from deck 83
+Player 83 discards 124 to deck 84
+Player 83 current hand [83, 174, 113, 139]
+Player 83 draws 9 from deck 83
+Player 83 discards 113 to deck 84
+Player 83 current hand [83, 174, 139, 9]
+Player 83 draws 122 from deck 83
+Player 83 discards 139 to deck 84
+Player 83 current hand [83, 174, 9, 122]
+Player 83 draws 139 from deck 83
+Player 83 discards 174 to deck 84
+Player 83 current hand [83, 9, 122, 139]
+Player 83 draws 15 from deck 83
+Player 83 discards 122 to deck 84
+Player 83 current hand [83, 9, 139, 15]
+Player 83 draws 104 from deck 83
+Player 83 discards 9 to deck 84
+Player 83 current hand [83, 139, 15, 104]
+Player 83 draws 121 from deck 83
+Player 83 discards 104 to deck 84
+Player 83 current hand [83, 139, 15, 121]
+Player 83 draws 156 from deck 83
+Player 83 discards 121 to deck 84
+Player 83 current hand [83, 139, 15, 156]
+Player 83 draws 83 from deck 83
+Player 83 discards 139 to deck 84
+Player 83 current hand [83, 15, 156, 83]
+Player 83 draws 119 from deck 83
+Player 83 discards 15 to deck 84
+Player 83 current hand [83, 156, 83, 119]
+Player 83 draws 13 from deck 83
+Player 83 discards 156 to deck 84
+Player 83 current hand [83, 83, 119, 13]
+Player 83 draws 121 from deck 83
+Player 83 discards 13 to deck 84
+Player 83 current hand [83, 83, 119, 121]
+Player 83 draws 103 from deck 83
+Player 83 discards 121 to deck 84
+Player 83 current hand [83, 83, 119, 103]
+Player 83 draws 102 from deck 83
+Player 83 discards 103 to deck 84
+Player 83 current hand [83, 83, 119, 102]
+Player 83 draws 34 from deck 83
+Player 83 discards 102 to deck 84
+Player 83 current hand [83, 83, 119, 34]
+Player 83 draws 160 from deck 83
+Player 83 discards 34 to deck 84
+Player 83 current hand [83, 83, 119, 160]
+Player 83 draws 1 from deck 83
+Player 83 discards 160 to deck 84
+Player 83 current hand [83, 83, 119, 1]
+Player 83 draws 30 from deck 83
+Player 83 discards 1 to deck 84
+Player 83 current hand [83, 83, 119, 30]
+Player 83 draws 174 from deck 83
+Player 83 discards 30 to deck 84
+Player 83 current hand [83, 83, 119, 174]
+Player 83 draws 117 from deck 83
+Player 83 discards 119 to deck 84
+Player 83 current hand [83, 83, 174, 117]
+Player 83 draws 25 from deck 83
+Player 83 discards 117 to deck 84
+Player 83 current hand [83, 83, 174, 25]
+Player 83 draws 16 from deck 83
+Player 83 discards 25 to deck 84
+Player 83 current hand [83, 83, 174, 16]
+Player 83 draws 29 from deck 83
+Player 83 discards 174 to deck 84
+Player 83 current hand [83, 83, 16, 29]
+Player 83 draws 166 from deck 83
+Player 83 discards 16 to deck 84
+Player 83 current hand [83, 83, 29, 166]
+Player 83 draws 8 from deck 83
+Player 83 discards 166 to deck 84
+Player 83 current hand [83, 83, 29, 8]
+Player 83 draws 11 from deck 83
+Player 83 discards 8 to deck 84
+Player 83 current hand [83, 83, 29, 11]
+Player 83 draws 167 from deck 83
+Player 83 discards 11 to deck 84
+Player 83 current hand [83, 83, 29, 167]
+Player 83 draws 148 from deck 83
+Player 83 discards 29 to deck 84
+Player 83 current hand [83, 83, 167, 148]
+Player 83 draws 26 from deck 83
+Player 83 discards 167 to deck 84
+Player 83 current hand [83, 83, 148, 26]
+Player 83 draws 162 from deck 83
+Player 83 discards 148 to deck 84
+Player 83 current hand [83, 83, 26, 162]
+Player 83 draws 90 from deck 83
+Player 83 discards 26 to deck 84
+Player 83 current hand [83, 83, 162, 90]
+Player 83 draws 10 from deck 83
+Player 83 discards 90 to deck 84
+Player 83 current hand [83, 83, 162, 10]
+Player 83 draws 2 from deck 83
+Player 83 discards 10 to deck 84
+Player 83 current hand [83, 83, 162, 2]
+Player 83 draws 163 from deck 83
+Player 83 discards 2 to deck 84
+Player 83 current hand [83, 83, 162, 163]
+Player 83 draws 42 from deck 83
+Player 83 discards 162 to deck 84
+Player 83 current hand [83, 83, 163, 42]
+Player 83 draws 50 from deck 83
+Player 83 discards 163 to deck 84
+Player 83 current hand [83, 83, 42, 50]
+Player 83 draws 123 from deck 83
+Player 83 discards 42 to deck 84
+Player 83 current hand [83, 83, 50, 123]
+Player 83 draws 41 from deck 83
+Player 83 discards 50 to deck 84
+Player 83 current hand [83, 83, 123, 41]
+P51 has informed P83 that P51 has won
+P83 exits
+P83 hand [83, 83, 123, 41]

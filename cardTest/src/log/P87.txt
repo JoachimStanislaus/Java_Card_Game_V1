@@ -1,0 +1,673 @@
+player 87 initial hand [33, 82, 92, 126]
+Player 87 draws 17 from deck 87
+Player 87 discards 82 to deck 88
+Player 87 current hand [33, 92, 126, 17]
+Player 87 draws 164 from deck 87
+Player 87 discards 92 to deck 88
+Player 87 current hand [33, 126, 17, 164]
+Player 87 draws 119 from deck 87
+Player 87 discards 164 to deck 88
+Player 87 current hand [33, 126, 17, 119]
+Player 87 draws 45 from deck 87
+Player 87 discards 119 to deck 88
+Player 87 current hand [33, 126, 17, 45]
+Player 87 draws 173 from deck 87
+Player 87 discards 45 to deck 88
+Player 87 current hand [33, 126, 17, 173]
+Player 87 draws 4 from deck 87
+Player 87 discards 173 to deck 88
+Player 87 current hand [33, 126, 17, 4]
+Player 87 draws 164 from deck 87
+Player 87 discards 17 to deck 88
+Player 87 current hand [33, 126, 4, 164]
+Player 87 draws 18 from deck 87
+Player 87 discards 4 to deck 88
+Player 87 current hand [33, 126, 164, 18]
+Player 87 draws 115 from deck 87
+Player 87 discards 18 to deck 88
+Player 87 current hand [33, 126, 164, 115]
+Player 87 draws 120 from deck 87
+Player 87 discards 164 to deck 88
+Player 87 current hand [33, 126, 115, 120]
+Player 87 draws 78 from deck 87
+Player 87 discards 115 to deck 88
+Player 87 current hand [33, 126, 120, 78]
+Player 87 draws 38 from deck 87
+Player 87 discards 120 to deck 88
+Player 87 current hand [33, 126, 78, 38]
+Player 87 draws 144 from deck 87
+Player 87 discards 33 to deck 88
+Player 87 current hand [126, 78, 38, 144]
+Player 87 draws 53 from deck 87
+Player 87 discards 38 to deck 88
+Player 87 current hand [126, 78, 144, 53]
+Player 87 draws 137 from deck 87
+Player 87 discards 53 to deck 88
+Player 87 current hand [126, 78, 144, 137]
+Player 87 draws 151 from deck 87
+Player 87 discards 126 to deck 88
+Player 87 current hand [78, 144, 137, 151]
+Player 87 draws 170 from deck 87
+Player 87 discards 137 to deck 88
+Player 87 current hand [78, 144, 151, 170]
+Player 87 draws 120 from deck 87
+Player 87 discards 144 to deck 88
+Player 87 current hand [78, 151, 170, 120]
+Player 87 draws 47 from deck 87
+Player 87 discards 151 to deck 88
+Player 87 current hand [78, 170, 120, 47]
+Player 87 draws 112 from deck 87
+Player 87 discards 170 to deck 88
+Player 87 current hand [78, 120, 47, 112]
+Player 87 draws 62 from deck 87
+Player 87 discards 120 to deck 88
+Player 87 current hand [78, 47, 112, 62]
+Player 87 draws 149 from deck 87
+Player 87 discards 78 to deck 88
+Player 87 current hand [47, 112, 62, 149]
+Player 87 draws 157 from deck 87
+Player 87 discards 112 to deck 88
+Player 87 current hand [47, 62, 149, 157]
+Player 87 draws 141 from deck 87
+Player 87 discards 47 to deck 88
+Player 87 current hand [62, 149, 157, 141]
+Player 87 draws 134 from deck 87
+Player 87 discards 157 to deck 88
+Player 87 current hand [62, 149, 141, 134]
+Player 87 draws 118 from deck 87
+Player 87 discards 141 to deck 88
+Player 87 current hand [62, 149, 134, 118]
+Player 87 draws 65 from deck 87
+Player 87 discards 149 to deck 88
+Player 87 current hand [62, 134, 118, 65]
+Player 87 draws 52 from deck 87
+Player 87 discards 134 to deck 88
+Player 87 current hand [62, 118, 65, 52]
+Player 87 draws 66 from deck 87
+Player 87 discards 62 to deck 88
+Player 87 current hand [118, 65, 52, 66]
+Player 87 draws 76 from deck 87
+Player 87 discards 52 to deck 88
+Player 87 current hand [118, 65, 66, 76]
+Player 87 draws 154 from deck 87
+Player 87 discards 76 to deck 88
+Player 87 current hand [118, 65, 66, 154]
+Player 87 draws 104 from deck 87
+Player 87 discards 66 to deck 88
+Player 87 current hand [118, 65, 154, 104]
+Player 87 draws 70 from deck 87
+Player 87 discards 118 to deck 88
+Player 87 current hand [65, 154, 104, 70]
+Player 87 draws 147 from deck 87
+Player 87 discards 104 to deck 88
+Player 87 current hand [65, 154, 70, 147]
+Player 87 draws 104 from deck 87
+Player 87 discards 65 to deck 88
+Player 87 current hand [154, 70, 147, 104]
+Player 87 draws 98 from deck 87
+Player 87 discards 104 to deck 88
+Player 87 current hand [154, 70, 147, 98]
+Player 87 draws 143 from deck 87
+Player 87 discards 154 to deck 88
+Player 87 current hand [70, 147, 98, 143]
+Player 87 draws 156 from deck 87
+Player 87 discards 147 to deck 88
+Player 87 current hand [70, 98, 143, 156]
+Player 87 draws 26 from deck 87
+Player 87 discards 98 to deck 88
+Player 87 current hand [70, 143, 156, 26]
+Player 87 draws 146 from deck 87
+Player 87 discards 143 to deck 88
+Player 87 current hand [70, 156, 26, 146]
+Player 87 draws 96 from deck 87
+Player 87 discards 26 to deck 88
+Player 87 current hand [70, 156, 146, 96]
+Player 87 draws 7 from deck 87
+Player 87 discards 146 to deck 88
+Player 87 current hand [70, 156, 96, 7]
+Player 87 draws 12 from deck 87
+Player 87 discards 70 to deck 88
+Player 87 current hand [156, 96, 7, 12]
+Player 87 draws 87 from deck 87
+Player 87 discards 96 to deck 88
+Player 87 current hand [156, 7, 12, 87]
+Player 87 draws 95 from deck 87
+Player 87 discards 12 to deck 88
+Player 87 current hand [156, 7, 87, 95]
+Player 87 draws 155 from deck 87
+Player 87 discards 156 to deck 88
+Player 87 current hand [7, 87, 95, 155]
+Player 87 draws 1 from deck 87
+Player 87 discards 7 to deck 88
+Player 87 current hand [87, 95, 155, 1]
+Player 87 draws 156 from deck 87
+Player 87 discards 95 to deck 88
+Player 87 current hand [87, 155, 1, 156]
+Player 87 draws 126 from deck 87
+Player 87 discards 155 to deck 88
+Player 87 current hand [87, 1, 156, 126]
+Player 87 draws 91 from deck 87
+Player 87 discards 126 to deck 88
+Player 87 current hand [87, 1, 156, 91]
+Player 87 draws 47 from deck 87
+Player 87 discards 156 to deck 88
+Player 87 current hand [87, 1, 91, 47]
+Player 87 draws 89 from deck 87
+Player 87 discards 47 to deck 88
+Player 87 current hand [87, 1, 91, 89]
+Player 87 draws 28 from deck 87
+Player 87 discards 89 to deck 88
+Player 87 current hand [87, 1, 91, 28]
+Player 87 draws 130 from deck 87
+Player 87 discards 91 to deck 88
+Player 87 current hand [87, 1, 28, 130]
+Player 87 draws 36 from deck 87
+Player 87 discards 1 to deck 88
+Player 87 current hand [87, 28, 130, 36]
+Player 87 draws 120 from deck 87
+Player 87 discards 28 to deck 88
+Player 87 current hand [87, 130, 36, 120]
+Player 87 draws 92 from deck 87
+Player 87 discards 130 to deck 88
+Player 87 current hand [87, 36, 120, 92]
+Player 87 draws 97 from deck 87
+Player 87 discards 92 to deck 88
+Player 87 current hand [87, 36, 120, 97]
+Player 87 draws 100 from deck 87
+Player 87 discards 120 to deck 88
+Player 87 current hand [87, 36, 97, 100]
+Player 87 draws 100 from deck 87
+Player 87 discards 100 to deck 88
+Player 87 current hand [87, 36, 97, 100]
+Player 87 draws 90 from deck 87
+Player 87 discards 100 to deck 88
+Player 87 current hand [87, 36, 97, 90]
+Player 87 draws 170 from deck 87
+Player 87 discards 97 to deck 88
+Player 87 current hand [87, 36, 90, 170]
+Player 87 draws 99 from deck 87
+Player 87 discards 36 to deck 88
+Player 87 current hand [87, 90, 170, 99]
+Player 87 draws 74 from deck 87
+Player 87 discards 90 to deck 88
+Player 87 current hand [87, 170, 99, 74]
+Player 87 draws 56 from deck 87
+Player 87 discards 99 to deck 88
+Player 87 current hand [87, 170, 74, 56]
+Player 87 draws 166 from deck 87
+Player 87 discards 170 to deck 88
+Player 87 current hand [87, 74, 56, 166]
+Player 87 draws 145 from deck 87
+Player 87 discards 166 to deck 88
+Player 87 current hand [87, 74, 56, 145]
+Player 87 draws 174 from deck 87
+Player 87 discards 74 to deck 88
+Player 87 current hand [87, 56, 145, 174]
+Player 87 draws 106 from deck 87
+Player 87 discards 56 to deck 88
+Player 87 current hand [87, 145, 174, 106]
+Player 87 draws 121 from deck 87
+Player 87 discards 145 to deck 88
+Player 87 current hand [87, 174, 106, 121]
+Player 87 draws 48 from deck 87
+Player 87 discards 174 to deck 88
+Player 87 current hand [87, 106, 121, 48]
+Player 87 draws 150 from deck 87
+Player 87 discards 121 to deck 88
+Player 87 current hand [87, 106, 48, 150]
+Player 87 draws 108 from deck 87
+Player 87 discards 48 to deck 88
+Player 87 current hand [87, 106, 150, 108]
+Player 87 draws 14 from deck 87
+Player 87 discards 150 to deck 88
+Player 87 current hand [87, 106, 108, 14]
+Player 87 draws 47 from deck 87
+Player 87 discards 108 to deck 88
+Player 87 current hand [87, 106, 14, 47]
+Player 87 draws 43 from deck 87
+Player 87 discards 47 to deck 88
+Player 87 current hand [87, 106, 14, 43]
+Player 87 draws 3 from deck 87
+Player 87 discards 14 to deck 88
+Player 87 current hand [87, 106, 43, 3]
+Player 87 draws 88 from deck 87
+Player 87 discards 43 to deck 88
+Player 87 current hand [87, 106, 3, 88]
+Player 87 draws 106 from deck 87
+Player 87 discards 106 to deck 88
+Player 87 current hand [87, 3, 88, 106]
+Player 87 draws 135 from deck 87
+Player 87 discards 88 to deck 88
+Player 87 current hand [87, 3, 106, 135]
+Player 87 draws 98 from deck 87
+Player 87 discards 135 to deck 88
+Player 87 current hand [87, 3, 106, 98]
+Player 87 draws 171 from deck 87
+Player 87 discards 3 to deck 88
+Player 87 current hand [87, 106, 98, 171]
+Player 87 draws 110 from deck 87
+Player 87 discards 98 to deck 88
+Player 87 current hand [87, 106, 171, 110]
+Player 87 draws 25 from deck 87
+Player 87 discards 171 to deck 88
+Player 87 current hand [87, 106, 110, 25]
+Player 87 draws 5 from deck 87
+Player 87 discards 25 to deck 88
+Player 87 current hand [87, 106, 110, 5]
+Player 87 draws 40 from deck 87
+Player 87 discards 110 to deck 88
+Player 87 current hand [87, 106, 5, 40]
+Player 87 draws 96 from deck 87
+Player 87 discards 106 to deck 88
+Player 87 current hand [87, 5, 40, 96]
+Player 87 draws 12 from deck 87
+Player 87 discards 40 to deck 88
+Player 87 current hand [87, 5, 96, 12]
+Player 87 draws 46 from deck 87
+Player 87 discards 12 to deck 88
+Player 87 current hand [87, 5, 96, 46]
+Player 87 draws 142 from deck 87
+Player 87 discards 5 to deck 88
+Player 87 current hand [87, 96, 46, 142]
+Player 87 draws 92 from deck 87
+Player 87 discards 142 to deck 88
+Player 87 current hand [87, 96, 46, 92]
+Player 87 draws 56 from deck 87
+Player 87 discards 96 to deck 88
+Player 87 current hand [87, 46, 92, 56]
+Player 87 draws 136 from deck 87
+Player 87 discards 92 to deck 88
+Player 87 current hand [87, 46, 56, 136]
+Player 87 draws 133 from deck 87
+Player 87 discards 136 to deck 88
+Player 87 current hand [87, 46, 56, 133]
+Player 87 draws 96 from deck 87
+Player 87 discards 46 to deck 88
+Player 87 current hand [87, 56, 133, 96]
+Player 87 draws 173 from deck 87
+Player 87 discards 56 to deck 88
+Player 87 current hand [87, 133, 96, 173]
+Player 87 draws 116 from deck 87
+Player 87 discards 96 to deck 88
+Player 87 current hand [87, 133, 173, 116]
+Player 87 draws 114 from deck 87
+Player 87 discards 116 to deck 88
+Player 87 current hand [87, 133, 173, 114]
+Player 87 draws 103 from deck 87
+Player 87 discards 133 to deck 88
+Player 87 current hand [87, 173, 114, 103]
+Player 87 draws 34 from deck 87
+Player 87 discards 173 to deck 88
+Player 87 current hand [87, 114, 103, 34]
+Player 87 draws 151 from deck 87
+Player 87 discards 114 to deck 88
+Player 87 current hand [87, 103, 34, 151]
+Player 87 draws 41 from deck 87
+Player 87 discards 151 to deck 88
+Player 87 current hand [87, 103, 34, 41]
+Player 87 draws 157 from deck 87
+Player 87 discards 41 to deck 88
+Player 87 current hand [87, 103, 34, 157]
+Player 87 draws 139 from deck 87
+Player 87 discards 34 to deck 88
+Player 87 current hand [87, 103, 157, 139]
+Player 87 draws 22 from deck 87
+Player 87 discards 139 to deck 88
+Player 87 current hand [87, 103, 157, 22]
+Player 87 draws 148 from deck 87
+Player 87 discards 157 to deck 88
+Player 87 current hand [87, 103, 22, 148]
+Player 87 draws 1 from deck 87
+Player 87 discards 22 to deck 88
+Player 87 current hand [87, 103, 148, 1]
+Player 87 draws 21 from deck 87
+Player 87 discards 103 to deck 88
+Player 87 current hand [87, 148, 1, 21]
+Player 87 draws 43 from deck 87
+Player 87 discards 21 to deck 88
+Player 87 current hand [87, 148, 1, 43]
+Player 87 draws 103 from deck 87
+Player 87 discards 43 to deck 88
+Player 87 current hand [87, 148, 1, 103]
+Player 87 draws 39 from deck 87
+Player 87 discards 1 to deck 88
+Player 87 current hand [87, 148, 103, 39]
+Player 87 draws 151 from deck 87
+Player 87 discards 103 to deck 88
+Player 87 current hand [87, 148, 39, 151]
+Player 87 draws 110 from deck 87
+Player 87 discards 39 to deck 88
+Player 87 current hand [87, 148, 151, 110]
+Player 87 draws 167 from deck 87
+Player 87 discards 110 to deck 88
+Player 87 current hand [87, 148, 151, 167]
+Player 87 draws 20 from deck 87
+Player 87 discards 151 to deck 88
+Player 87 current hand [87, 148, 167, 20]
+Player 87 draws 171 from deck 87
+Player 87 discards 148 to deck 88
+Player 87 current hand [87, 167, 20, 171]
+Player 87 draws 173 from deck 87
+Player 87 discards 20 to deck 88
+Player 87 current hand [87, 167, 171, 173]
+Player 87 draws 140 from deck 87
+Player 87 discards 167 to deck 88
+Player 87 current hand [87, 171, 173, 140]
+Player 87 draws 15 from deck 87
+Player 87 discards 171 to deck 88
+Player 87 current hand [87, 173, 140, 15]
+Player 87 draws 137 from deck 87
+Player 87 discards 15 to deck 88
+Player 87 current hand [87, 173, 140, 137]
+Player 87 draws 28 from deck 87
+Player 87 discards 140 to deck 88
+Player 87 current hand [87, 173, 137, 28]
+Player 87 draws 2 from deck 87
+Player 87 discards 137 to deck 88
+Player 87 current hand [87, 173, 28, 2]
+Player 87 draws 35 from deck 87
+Player 87 discards 28 to deck 88
+Player 87 current hand [87, 173, 2, 35]
+Player 87 draws 102 from deck 87
+Player 87 discards 35 to deck 88
+Player 87 current hand [87, 173, 2, 102]
+Player 87 draws 67 from deck 87
+Player 87 discards 173 to deck 88
+Player 87 current hand [87, 2, 102, 67]
+Player 87 draws 19 from deck 87
+Player 87 discards 102 to deck 88
+Player 87 current hand [87, 2, 67, 19]
+Player 87 draws 109 from deck 87
+Player 87 discards 67 to deck 88
+Player 87 current hand [87, 2, 19, 109]
+Player 87 draws 142 from deck 87
+Player 87 discards 19 to deck 88
+Player 87 current hand [87, 2, 109, 142]
+Player 87 draws 8 from deck 87
+Player 87 discards 109 to deck 88
+Player 87 current hand [87, 2, 142, 8]
+Player 87 draws 36 from deck 87
+Player 87 discards 2 to deck 88
+Player 87 current hand [87, 142, 8, 36]
+Player 87 draws 154 from deck 87
+Player 87 discards 8 to deck 88
+Player 87 current hand [87, 142, 36, 154]
+Player 87 draws 50 from deck 87
+Player 87 discards 154 to deck 88
+Player 87 current hand [87, 142, 36, 50]
+Player 87 draws 158 from deck 87
+Player 87 discards 142 to deck 88
+Player 87 current hand [87, 36, 50, 158]
+Player 87 draws 111 from deck 87
+Player 87 discards 158 to deck 88
+Player 87 current hand [87, 36, 50, 111]
+Player 87 draws 95 from deck 87
+Player 87 discards 111 to deck 88
+Player 87 current hand [87, 36, 50, 95]
+Player 87 draws 6 from deck 87
+Player 87 discards 50 to deck 88
+Player 87 current hand [87, 36, 95, 6]
+Player 87 draws 98 from deck 87
+Player 87 discards 36 to deck 88
+Player 87 current hand [87, 95, 6, 98]
+Player 87 draws 166 from deck 87
+Player 87 discards 6 to deck 88
+Player 87 current hand [87, 95, 98, 166]
+Player 87 draws 175 from deck 87
+Player 87 discards 98 to deck 88
+Player 87 current hand [87, 95, 166, 175]
+Player 87 draws 169 from deck 87
+Player 87 discards 95 to deck 88
+Player 87 current hand [87, 166, 175, 169]
+Player 87 draws 9 from deck 87
+Player 87 discards 175 to deck 88
+Player 87 current hand [87, 166, 169, 9]
+Player 87 draws 6 from deck 87
+Player 87 discards 166 to deck 88
+Player 87 current hand [87, 169, 9, 6]
+Player 87 draws 129 from deck 87
+Player 87 discards 169 to deck 88
+Player 87 current hand [87, 9, 6, 129]
+Player 87 draws 153 from deck 87
+Player 87 discards 9 to deck 88
+Player 87 current hand [87, 6, 129, 153]
+Player 87 draws 169 from deck 87
+Player 87 discards 129 to deck 88
+Player 87 current hand [87, 6, 153, 169]
+Player 87 draws 5 from deck 87
+Player 87 discards 153 to deck 88
+Player 87 current hand [87, 6, 169, 5]
+Player 87 draws 141 from deck 87
+Player 87 discards 169 to deck 88
+Player 87 current hand [87, 6, 5, 141]
+Player 87 draws 167 from deck 87
+Player 87 discards 5 to deck 88
+Player 87 current hand [87, 6, 141, 167]
+Player 87 draws 118 from deck 87
+Player 87 discards 6 to deck 88
+Player 87 current hand [87, 141, 167, 118]
+Player 87 draws 56 from deck 87
+Player 87 discards 118 to deck 88
+Player 87 current hand [87, 141, 167, 56]
+Player 87 draws 147 from deck 87
+Player 87 discards 141 to deck 88
+Player 87 current hand [87, 167, 56, 147]
+Player 87 draws 116 from deck 87
+Player 87 discards 56 to deck 88
+Player 87 current hand [87, 167, 147, 116]
+Player 87 draws 107 from deck 87
+Player 87 discards 147 to deck 88
+Player 87 current hand [87, 167, 116, 107]
+Player 87 draws 101 from deck 87
+Player 87 discards 116 to deck 88
+Player 87 current hand [87, 167, 107, 101]
+Player 87 draws 118 from deck 87
+Player 87 discards 101 to deck 88
+Player 87 current hand [87, 167, 107, 118]
+Player 87 draws 159 from deck 87
+Player 87 discards 107 to deck 88
+Player 87 current hand [87, 167, 118, 159]
+Player 87 draws 170 from deck 87
+Player 87 discards 167 to deck 88
+Player 87 current hand [87, 118, 159, 170]
+Player 87 draws 168 from deck 87
+Player 87 discards 170 to deck 88
+Player 87 current hand [87, 118, 159, 168]
+Player 87 draws 133 from deck 87
+Player 87 discards 118 to deck 88
+Player 87 current hand [87, 159, 168, 133]
+Player 87 draws 54 from deck 87
+Player 87 discards 159 to deck 88
+Player 87 current hand [87, 168, 133, 54]
+Player 87 draws 95 from deck 87
+Player 87 discards 168 to deck 88
+Player 87 current hand [87, 133, 54, 95]
+Player 87 draws 8 from deck 87
+Player 87 discards 133 to deck 88
+Player 87 current hand [87, 54, 95, 8]
+Player 87 draws 157 from deck 87
+Player 87 discards 54 to deck 88
+Player 87 current hand [87, 95, 8, 157]
+Player 87 draws 110 from deck 87
+Player 87 discards 157 to deck 88
+Player 87 current hand [87, 95, 8, 110]
+Player 87 draws 32 from deck 87
+Player 87 discards 95 to deck 88
+Player 87 current hand [87, 8, 110, 32]
+Player 87 draws 109 from deck 87
+Player 87 discards 8 to deck 88
+Player 87 current hand [87, 110, 32, 109]
+Player 87 draws 151 from deck 87
+Player 87 discards 110 to deck 88
+Player 87 current hand [87, 32, 109, 151]
+Player 87 draws 105 from deck 87
+Player 87 discards 151 to deck 88
+Player 87 current hand [87, 32, 109, 105]
+Player 87 draws 148 from deck 87
+Player 87 discards 32 to deck 88
+Player 87 current hand [87, 109, 105, 148]
+Player 87 draws 65 from deck 87
+Player 87 discards 148 to deck 88
+Player 87 current hand [87, 109, 105, 65]
+Player 87 draws 135 from deck 87
+Player 87 discards 65 to deck 88
+Player 87 current hand [87, 109, 105, 135]
+Player 87 draws 7 from deck 87
+Player 87 discards 109 to deck 88
+Player 87 current hand [87, 105, 135, 7]
+Player 87 draws 128 from deck 87
+Player 87 discards 135 to deck 88
+Player 87 current hand [87, 105, 7, 128]
+Player 87 draws 113 from deck 87
+Player 87 discards 105 to deck 88
+Player 87 current hand [87, 7, 128, 113]
+Player 87 draws 171 from deck 87
+Player 87 discards 113 to deck 88
+Player 87 current hand [87, 7, 128, 171]
+Player 87 draws 137 from deck 87
+Player 87 discards 171 to deck 88
+Player 87 current hand [87, 7, 128, 137]
+Player 87 draws 97 from deck 87
+Player 87 discards 128 to deck 88
+Player 87 current hand [87, 7, 137, 97]
+Player 87 draws 12 from deck 87
+Player 87 discards 137 to deck 88
+Player 87 current hand [87, 7, 97, 12]
+Player 87 draws 2 from deck 87
+Player 87 discards 7 to deck 88
+Player 87 current hand [87, 97, 12, 2]
+Player 87 draws 111 from deck 87
+Player 87 discards 2 to deck 88
+Player 87 current hand [87, 97, 12, 111]
+Player 87 draws 109 from deck 87
+Player 87 discards 111 to deck 88
+Player 87 current hand [87, 97, 12, 109]
+Player 87 draws 36 from deck 87
+Player 87 discards 109 to deck 88
+Player 87 current hand [87, 97, 12, 36]
+Player 87 draws 13 from deck 87
+Player 87 discards 36 to deck 88
+Player 87 current hand [87, 97, 12, 13]
+Player 87 draws 143 from deck 87
+Player 87 discards 13 to deck 88
+Player 87 current hand [87, 97, 12, 143]
+Player 87 draws 127 from deck 87
+Player 87 discards 97 to deck 88
+Player 87 current hand [87, 12, 143, 127]
+Player 87 draws 55 from deck 87
+Player 87 discards 143 to deck 88
+Player 87 current hand [87, 12, 127, 55]
+Player 87 draws 131 from deck 87
+Player 87 discards 55 to deck 88
+Player 87 current hand [87, 12, 127, 131]
+Player 87 draws 131 from deck 87
+Player 87 discards 12 to deck 88
+Player 87 current hand [87, 127, 131, 131]
+Player 87 draws 127 from deck 87
+Player 87 discards 131 to deck 88
+Player 87 current hand [87, 127, 131, 127]
+Player 87 draws 10 from deck 87
+Player 87 discards 131 to deck 88
+Player 87 current hand [87, 127, 127, 10]
+Player 87 draws 101 from deck 87
+Player 87 discards 10 to deck 88
+Player 87 current hand [87, 127, 127, 101]
+Player 87 draws 30 from deck 87
+Player 87 discards 101 to deck 88
+Player 87 current hand [87, 127, 127, 30]
+Player 87 draws 54 from deck 87
+Player 87 discards 127 to deck 88
+Player 87 current hand [87, 127, 30, 54]
+Player 87 draws 105 from deck 87
+Player 87 discards 30 to deck 88
+Player 87 current hand [87, 127, 54, 105]
+Player 87 draws 103 from deck 87
+Player 87 discards 54 to deck 88
+Player 87 current hand [87, 127, 105, 103]
+Player 87 draws 159 from deck 87
+Player 87 discards 103 to deck 88
+Player 87 current hand [87, 127, 105, 159]
+Player 87 draws 50 from deck 87
+Player 87 discards 105 to deck 88
+Player 87 current hand [87, 127, 159, 50]
+Player 87 draws 91 from deck 87
+Player 87 discards 127 to deck 88
+Player 87 current hand [87, 159, 50, 91]
+Player 87 draws 89 from deck 87
+Player 87 discards 91 to deck 88
+Player 87 current hand [87, 159, 50, 89]
+Player 87 draws 134 from deck 87
+Player 87 discards 89 to deck 88
+Player 87 current hand [87, 159, 50, 134]
+Player 87 draws 42 from deck 87
+Player 87 discards 50 to deck 88
+Player 87 current hand [87, 159, 134, 42]
+Player 87 draws 87 from deck 87
+Player 87 discards 134 to deck 88
+Player 87 current hand [87, 159, 42, 87]
+Player 87 draws 48 from deck 87
+Player 87 discards 159 to deck 88
+Player 87 current hand [87, 42, 87, 48]
+Player 87 draws 44 from deck 87
+Player 87 discards 42 to deck 88
+Player 87 current hand [87, 87, 48, 44]
+Player 87 draws 15 from deck 87
+Player 87 discards 44 to deck 88
+Player 87 current hand [87, 87, 48, 15]
+Player 87 draws 113 from deck 87
+Player 87 discards 48 to deck 88
+Player 87 current hand [87, 87, 15, 113]
+Player 87 draws 124 from deck 87
+Player 87 discards 113 to deck 88
+Player 87 current hand [87, 87, 15, 124]
+Player 87 draws 3 from deck 87
+Player 87 discards 15 to deck 88
+Player 87 current hand [87, 87, 124, 3]
+Player 87 draws 122 from deck 87
+Player 87 discards 3 to deck 88
+Player 87 current hand [87, 87, 124, 122]
+Player 87 draws 155 from deck 87
+Player 87 discards 124 to deck 88
+Player 87 current hand [87, 87, 122, 155]
+Player 87 draws 9 from deck 87
+Player 87 discards 155 to deck 88
+Player 87 current hand [87, 87, 122, 9]
+Player 87 draws 124 from deck 87
+Player 87 discards 122 to deck 88
+Player 87 current hand [87, 87, 9, 124]
+Player 87 draws 121 from deck 87
+Player 87 discards 9 to deck 88
+Player 87 current hand [87, 87, 124, 121]
+Player 87 draws 139 from deck 87
+Player 87 discards 121 to deck 88
+Player 87 current hand [87, 87, 124, 139]
+Player 87 draws 15 from deck 87
+Player 87 discards 139 to deck 88
+Player 87 current hand [87, 87, 124, 15]
+Player 87 draws 13 from deck 87
+Player 87 discards 15 to deck 88
+Player 87 current hand [87, 87, 124, 13]
+Player 87 draws 104 from deck 87
+Player 87 discards 13 to deck 88
+Player 87 current hand [87, 87, 124, 104]
+Player 87 draws 156 from deck 87
+Player 87 discards 104 to deck 88
+Player 87 current hand [87, 87, 124, 156]
+Player 87 draws 1 from deck 87
+Player 87 discards 124 to deck 88
+Player 87 current hand [87, 87, 156, 1]
+Player 87 draws 102 from deck 87
+Player 87 discards 156 to deck 88
+Player 87 current hand [87, 87, 1, 102]
+Player 87 draws 139 from deck 87
+Player 87 discards 102 to deck 88
+Player 87 current hand [87, 87, 1, 139]
+Player 87 draws 1 from deck 87
+Player 87 discards 1 to deck 88
+Player 87 current hand [87, 87, 139, 1]
+Player 87 draws 30 from deck 87
+Player 87 discards 1 to deck 88
+Player 87 current hand [87, 87, 139, 30]
+P51 has informed P87 that P51 has won
+P87 exits
+P87 hand [87, 87, 139, 30]
