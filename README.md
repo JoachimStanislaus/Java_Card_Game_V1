@@ -51,8 +51,8 @@
     <li>
     <a href="#running-the-game">Running the game</a>
     <ul>
-          <li><a href="#running-the-game-from-jar-release">Run the game from JAR release</a></li>
-          <li><a href="#running-the-game-from-source-code">Run the game from source code</a></li>
+          <li><a href="#run-the-game-from-jar-release">Run the game from JAR release</a></li>
+          <li><a href="#run-the-game-from-source-code">Run the game from source code</a></li>
           <li><a href="#run-the-game-from-windows-command-line">Windows command line instructions</a></li>
         </ul>
     </li>
