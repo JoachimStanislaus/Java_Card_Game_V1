@@ -53,13 +53,14 @@
     <ul>
           <li><a href="#running-the-game-from-jar-release">Run the game from JAR release</a></li>
           <li><a href="#running-the-game-from-source-code">Run the game from source code</a></li>
-          <li><a href="#running-the-game-from-windows-command-line">Windows command line instructions</a></li>
+          <li><a href="#run-the-game-from-windows-command-line">Windows command line instructions</a></li>
         </ul>
     </li>
     <li>
     <a href="#testing">Testing</a>
     <ul>
-          <li><a href="#run the test suite">Run the test suite</a></li>
+          <li><a href="#run-the-test-from-vs-code">Run the test from VS Code</a></li>
+          <li><a href="#run-the-test-suite">Run the test suite</a></li>
           <li><a href="#run-the-test-from-windows-command-line">Windows command line instructions</a></li>
     </ul>
     </li>  
