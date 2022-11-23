@@ -60,7 +60,6 @@ public class PlayerTest {
         assertEquals(Arrays.toString(player.getHand().toArray()), "[1, 1, 1, 1]");
     }
 
-    @Test
     public void testWriteToPlayerFile() {
         try {
             Player player = new Player((int) 1);

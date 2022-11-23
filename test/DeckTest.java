@@ -20,6 +20,7 @@ public class DeckTest {
     private int n;
     Card[] cards;
 
+    @Before
     public void setUp() {
         n = (int) Math.round(Math.random() * 20);
         deck = new Deck((int) 1);

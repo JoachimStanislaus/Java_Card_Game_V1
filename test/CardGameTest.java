@@ -26,8 +26,9 @@ public class CardGameTest {
             ArrayList<Card> packCards = Generate.generate(n);
             Generate.writefile("PackTest.txt", packCards);
             CardGame.startGame(n, "PackTest.txt");
-            // packCards.clear();
+            packCards.clear();
         } catch (Exception e) {
+            System.out.println(e);
             fail("test has failed due to exception error.");
         }
     }
