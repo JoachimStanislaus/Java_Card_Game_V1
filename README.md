@@ -100,12 +100,20 @@ To get a local copy up and running follow these simple example steps.
 ### Run The Game From Jar Release
 
 1. Open terminal/command prompt in the directory where cards.jar is saved
-2. Run this command:
+2. Run this command to compile:
 ```cmd
-java -jar cards.jar
+javac -cp .:cards.jar src/CardGame.java
 ```
-3. Type the number of players and ENTER (if you want to use the test pack of cards, type 2)
-4. Type the filename of the pack of cards (samplepack.txt will work)
+3. Run this command every time you want to run:
+```cmd
+java -cp .:cards.jar CardGame
+```
+4. Type the number of players and ENTER (if you want to use the test pack of cards, type 2)
+5. Type the filename of the pack of cards (samplepack.txt will work)
+6. To extract contents inside the jar
+```cmd
+jar -xvf cards.jar
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

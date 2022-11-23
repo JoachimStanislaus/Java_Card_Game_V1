@@ -70,7 +70,7 @@ JUnit version 4.13.2
 .....
 Time: 0.86
 
-OK (15 tests)
+OK (14 tests)
 ```
 
 <!-- Game functionality -->
