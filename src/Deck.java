@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.io.File;
 
 /**
- * This class initialises the Deck and it's methods.
+ * This is a deck class containing deck attributes and it's methods.
  *
  * @author 228027 & 231731
  * @version 1.0
@@ -25,7 +25,7 @@ public class Deck {
     }
 
     /**
-     * This method gets the card from the top of the deck
+     * This method gets the card from the top of the deck and remove the card
      * 
      * @return the card on the top of the deck
      */
@@ -79,6 +79,11 @@ public class Deck {
         return "deck" + deckId + ": " + cards.toString();
     }
 
+    /**
+     * This method gets the deckId of a deck
+     * 
+     * @return deckId the deckId of a deck
+     */
     public int getDeckId() {
         return deckId;
     }

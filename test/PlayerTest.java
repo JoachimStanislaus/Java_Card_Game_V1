@@ -12,13 +12,17 @@ import java.util.Arrays;
 import org.junit.Test;
 
 /**
- *
+ * This is player tests. It tests most of the player methods.
  *
  * @author 228027 & 231731
  * @version 1.0
  */
 
 public class PlayerTest {
+
+    /**
+     * This method tests if a player has a winning deck.
+     */
     @Test
     public void testIsWinnerTrue() {
         Player player = new Player((int) 1);
@@ -28,6 +32,9 @@ public class PlayerTest {
         assertTrue(player.isWinner());
     }
 
+    /**
+     * This method tests if a player does NOT have a winning deck.
+     */
     @Test
     public void testIsWinnerFalse() {
         Player player = new Player((int) 1);
@@ -37,6 +44,9 @@ public class PlayerTest {
         assertFalse(player.isWinner());
     }
 
+    /**
+     * This method test all of the functionality during the player's turn.
+     */
     @Test
     public void testPlayerTurn() {
         Player player = new Player((int) 1);

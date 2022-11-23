@@ -10,18 +10,16 @@ import org.junit.After;
 import org.junit.Before;
 
 /**
- *
+ * This is a deck tests. It tests most of the deck methods.
  *
  * @author 228027 & 231731
  * @version 1.0
  */
-
 public class DeckTest {
     private Deck deck;
     private int n;
     Card[] cards;
 
-    @Before
     public void setUp() {
         n = (int) Math.round(Math.random() * 20);
         deck = new Deck((int) 1);
@@ -40,6 +38,10 @@ public class DeckTest {
         assertTrue(deck.getCards().contains(card));
     }
 
+    /**
+     * This method tests if the deck picks up a card and then a remove the card from
+     * its deck.
+     */
     @Test
     public void testPickUpCard() {
         Card card = new Card(1);

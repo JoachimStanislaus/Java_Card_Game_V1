@@ -5,7 +5,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.lang.Thread;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Random;
 
 /**
@@ -111,7 +110,12 @@ public class Player extends Thread {
         return currentCard;
     }
 
-    protected void writeToPlayerFile(String output) {
+    /**
+     * This method writes contents to a player file.
+     * 
+     * @param output the contents that we want to write to a player file.
+     */
+    public void writeToPlayerFile(String output) {
         // open, write to, and close players file
         try {
             BufferedWriter writer = new BufferedWriter(new FileWriter(path, true));
@@ -125,6 +129,11 @@ public class Player extends Thread {
         }
     }
 
+    /**
+     * This method informs other players that the player has won.
+     * 
+     * @param playerId the playerId of the player.
+     */
     public void informPlayerHasWon(int playerId) {
         StringBuilder winOutput = new StringBuilder();
         // check if player number is self
