@@ -42,7 +42,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -86,19 +85,11 @@
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/joachimstanislaus/Java_Card_Game.git
+   git clone https://github.com/joachimstanislaus/Java_Card_Game_V1.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -113,14 +104,14 @@ This is an example of how to list things you need to use the software and how to
 ```cmd
 java -jar cards.jar
 ```
-3. Type the number of players and ENTER (if you want to use the test pack of cards, type 22)
-4. Type the filename of the pack of cards (testPack.txt will work)
+3. Type the number of players and ENTER (if you want to use the test pack of cards, type 2)
+4. Type the filename of the pack of cards (samplepack.txt will work)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Run The Game From Source Code
 
-To run the game, run the main method of the `CardGame` class. You will be prompted to enter the number of players. If you want to use the test pack of cards, enter 22 for number of players. When asked for the filename of the pack of cards, enter `testPack.txt`. The game should ensue, and a winner established. Players will output their turns to seperate files under the `gameOutput` directory, along with the final state of each card deck.
+To run the game, run the main method of the `CardGame` class. You will be prompted to enter the number of players. If you want to use the test pack of cards, enter 2 for number of players. When asked for the filename of the pack of cards, enter `samplepack.txt`. The game should ensue, and a winner established. Players will output their turns to seperate files under the `log` directory, along with the final state of each card deck.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
