@@ -46,19 +46,23 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#running-the-game">Running the game</a></li>
-        <ul>
+      </ul>
+    </li>
+    <li>
+    <a href="#running-the-game">Running the game</a>
+    <ul>
           <li><a href="#running-the-game-from-jar-release">Run the game from JAR release</a></li>
           <li><a href="#running-the-game-from-source-code">Run the game from source code</a></li>
           <li><a href="#running-the-game-from-windows-command-line">Windows command line instructions</a></li>
         </ul>
-        <li><a href="#testing">Testing</a></li>
-        <ul>
+    </li>
+    <li>
+    <a href="#testing">Testing</a>
+    <ul>
           <li><a href="#run-the-test-suite">Run the test suite</a></li>
           <li><a href="#run-the-test-from-windows-command-line">Windows command line instructions</a></li>
-        </ul>
-      </ul>
-    </li>
+    </ul>
+    </li>  
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -104,9 +108,9 @@ This is an example of how to list things you need to use the software and how to
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- RUNNING THE GAME -->
-### Running The Game
+## Running The Game
 
-#### Run The Game From Jar Release
+### Run The Game From Jar Release
 
 1. Open terminal/command prompt in the directory where cards.jar is saved
 2. Run this command:
@@ -116,11 +120,11 @@ java -jar cards.jar
 3. Type the number of players and ENTER (if you want to use the test pack of cards, type 22)
 4. Type the filename of the pack of cards (testPack.txt will work)
 
-#### Run The Game From Source Code
+### Run The Game From Source Code
 
 To run the game, run the main method of the `CardGame` class. You will be prompted to enter the number of players. If you want to use the test pack of cards, enter 22 for number of players. When asked for the filename of the pack of cards, enter `testPack.txt`. The game should ensue, and a winner established. Players will output their turns to seperate files under the `gameOutput` directory, along with the final state of each card deck.
 
-#### Run The Game From Windows Command Line
+### Run The Game From Windows Command Line
 
 1. In command prompt, navigate to the root folder of the project (automated-java-card-game)
 2. Run the command `javac -cp src;lib/junit-4.12 src/CardGame.java`
@@ -129,15 +133,15 @@ To run the game, run the main method of the `CardGame` class. You will be prompt
 5. Type the filename of the pack of cards (testPack.txt will work)
 
 <!-- TESTING -->
-### Testing
+## Testing
 
 To run the full test suite, compile the `src` folder and then run the `CardGameTestSuite` class. This will automatically run the individual test files for each class.
 
-#### Run The Test Suite
+### Run The Test Suite
 
 To run the full test suite, compile the `src` folder and then run the `CardGameTestSuite` class. This will automatically run the individual test files for each class.
 
-#### Run The Test From Windows Command Line
+### Run The Test From Windows Command Line
 
 1. The tests must be run from the `src` directory. To switch to it from the root folder, use:
 ```cmd
